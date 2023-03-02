@@ -1,0 +1,63 @@
+---
+title: "ST4248 Project"
+author: "Group C4"
+date: '2023-03-02'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Libraries Import
+
+```{r}
+library(dplyr)
+library(tidyr)
+```
+
+# Dataset Import
+
+```{r}
+resale = read.csv("data/resale-flat-prices-based-on-registration-date-from-jan-2017-onwards.csv")
+resale_2023 = resale %>% 
+  filter(month %in% c("2023-01", "2023-02"))
+resale_2023
+```
+
+# Data Preparation
+
+```{r}
+# HDB lease is 99 years so remaining_lease is 99 - (2023 - lease_commence_date), 
+# so we can safely remove lease_commence_date
+resale_2023 = resale_2023 %>%
+  separate(remaining_lease, c("remaining_years", "years", "remaining_months", "months")) %>%
+  mutate(remaining_lease = as.integer(remaining_years) + 
+           ifelse(is.na(remaining_months), 0, as.integer(remaining_months) / 12)) %>%
+  select(-c(lease_commence_date, remaining_years, remaining_months, years, months))
+```
+
+```{r}
+sum(is.na(resale_2023))
+```
+
+# EDA
+
+```{r}
+summary(resale_2023)
+str(resale_2023)
+```
+
+```{r}
+# can help to change into ggplot and add more charts (esp correlation and relationship with price)
+barplot(table(resale_2023$month))
+barplot(table(resale_2023$town))
+barplot(table(resale_2023$flat_type))
+length(unique(resale_2023$block))
+barplot(table(resale_2023$street_name))
+barplot(table(resale_2023$storey_range))
+barplot(table(resale_2023$floor_area_sqm))
+barplot(table(resale_2023$flat_model))
+barplot(table(resale_2023$remaining_lease))
+barplot(table(resale_2023$resale_price))
+```

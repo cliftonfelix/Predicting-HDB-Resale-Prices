@@ -75,25 +75,52 @@ resale_2023 %>%
 
 resale_2023 %>% 
   ggplot() +
-  geom_boxplot(aes(x = flat_type, y = resale_price))
+  geom_boxplot(aes(x = flat_type, y = resale_price)) +
+  labs(title = "Resale Price Distribution by Flat Type") +
+  xlab("Flat Type") +
+  ylab("Resale Price") +
+  theme_minimal()
 
 resale_2023 %>% 
   ggplot() +
   geom_boxplot(aes(x = flat_type, y = resale_price)) +
   facet_wrap(~flat_model, scales = "free_x")
+```
 
+```{r, fig.width=8,fig.height=8}
 resale_2023 %>% 
   ggplot() +
   geom_boxplot(aes(x = flat_model, y = resale_price)) +
-  facet_wrap(~flat_type, scales = "free_x")
+  facet_wrap(~flat_type, scales = "free") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45))
+```
+
+```{r}
+resale_2023 %>% 
+  ggplot() +
+  geom_boxplot(aes(x = storey_range, y = resale_price)) +
+  labs(title = "Resale Price Distribution by HDB Storey Range") +
+  xlab("HDB Storey Range") +
+  ylab("Resale Price") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 30))
 
 resale_2023 %>% 
   ggplot() +
-  geom_boxplot(aes(x = storey_range, y = resale_price))
+  geom_point(aes(x = floor_area_sqm, y = resale_price)) +
+  labs(title = "Resale Price Distribution by Flat Floor Area (in m^2)") +
+  xlab("Flat Floor Area (in m^2)") +
+  ylab("Resale Price") +
+  theme_minimal()
 
 resale_2023 %>% 
   ggplot() +
-  geom_point(aes(x = floor_area_sqm, y = resale_price))
+  geom_point(aes(x = floor_area_sqm, y = resale_price, color = storey_range)) +
+  labs(title = "Resale Price Distribution by Flat Floor Area (in m^2)") +
+  xlab("Flat Floor Area (in m^2)") +
+  ylab("Resale Price") +
+  theme_minimal()
 
 resale_2023 %>% 
   ggplot() +

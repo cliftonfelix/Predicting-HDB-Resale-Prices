@@ -37,6 +37,8 @@ resale_2023 = resale_2023 %>%
   mutate(remaining_lease = as.integer(remaining_years) + 
            ifelse(is.na(remaining_months), 0, as.integer(remaining_months) / 12)) %>%
   select(-c(lease_commence_date, remaining_years, remaining_months, years, months))
+
+write.csv(resale_2023, "data/resale_2023.csv", row.names = FALSE)
 ```
 
 ```{r}
@@ -71,7 +73,11 @@ resale_2023 %>%
 
 resale_2023 %>% 
   ggplot() +
-  geom_boxplot(aes(x = town, y = resale_price))
+  geom_boxplot(aes(x = town, y = resale_price)) +
+  labs(title = "Resale Price Distribution by Town") +
+  xlab("Town") +
+  ylab("Resale Price") +
+  theme(axis.text.x = element_text(angle = 90))
 
 resale_2023 %>% 
   ggplot() +

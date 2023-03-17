@@ -1,0 +1,74 @@
+---
+title: "ST4248 Project"
+author: "Group C4"
+date: '2023-03-02'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Libraries Import
+
+```{r}
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(reshape2)
+```
+
+# Dataset Import
+
+```{r}
+resale = read.csv("data/resale-flat-prices-based-on-registration-date-from-jan-2017-onwards.csv")
+resale_2023 = resale %>% 
+  filter(month %in% c("2023-01", "2023-02"))
+resale_2023
+```
+
+# Data Preparation
+
+```{r}
+# HDB lease is 99 years so remaining_lease is 99 - (2023 - lease_commence_date), 
+# so we can safely remove lease_commence_date
+resale_2023 = resale_2023 %>%
+  separate(remaining_lease, c("remaining_years", "years", "remaining_months", "months")) %>%
+  mutate(remaining_lease = as.integer(remaining_years) + 
+           ifelse(is.na(remaining_months), 0, as.integer(remaining_months) / 12)) %>%
+  select(-c(lease_commence_date, remaining_years, remaining_months, years, months))
+
+write.csv(resale_2023, "data/resale_2023.csv", row.names = FALSE)
+```
+
+```{r}
+# total_rows = dim(resale_2023)[1]
+# train_indices = sample(total_rows, 0.8 * total_rows)
+# 
+# resale_train = resale_2023[train_indices,]
+# resale_test = resale_2023[-train_indices,]
+# 
+# write.csv(resale_train, "data/resale_train.csv", row.names = FALSE)
+# write.csv(resale_test, "data/resale_test.csv", row.names = FALSE)
+```
+
+```{r}
+# resale_sparse = resale_2023 %>% 
+#   mutate(dummy = 1) %>%
+#   spread(key = month, value = dummy, sep = " ") %>% 
+#   mutate(dummy = 1) %>%
+#   spread(key = town, value = dummy, sep = " ") %>% 
+#   mutate(dummy = 1) %>%
+#   spread(key = flat_type, value = dummy, sep = " ") %>% 
+#   mutate(dummy = 1) %>%
+#   spread(key = block, value = dummy, sep = " ") %>% 
+#   mutate(dummy = 1) %>%
+#   spread(key = street_name, value = dummy, sep = " ") %>% 
+#   mutate(dummy = 1) %>%
+#   spread(key = storey_range, value = dummy, sep = " ") %>% 
+#   mutate(dummy = 1) %>%
+#   spread(key = flat_model, value = dummy, sep = " ") %>%
+#   mutate_all(~replace(., is.na(.), 0))
+# 
+# write.csv(resale_sparse, "data/resale_sparse.csv", row.names = FALSE)
+```

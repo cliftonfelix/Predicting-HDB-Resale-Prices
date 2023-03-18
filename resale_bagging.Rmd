@@ -20,6 +20,7 @@ library(randomForest)
 # Import CSV
 
 ```{r}
+# I did this before I did feature selection so need to change abit
 resale = read.csv("data/resale_feature_engineering.csv")
 total_rows = dim(resale)[1]
 train_indices = sample(total_rows, 0.8 * total_rows)

@@ -21,7 +21,7 @@ library(treeshap)
 # Import CSV
 
 ```{r}
-# need to create sparse
+# I did this before I did feature engineering and selection so need to change abit
 resale = read.csv("data/resale_sparse.csv")
 ```
 

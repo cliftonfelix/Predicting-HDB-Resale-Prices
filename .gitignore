@@ -2,4 +2,4 @@
 
 *.Rhistory
 
-*/train_df_one_hot_scaled.csv
+data/feature_engineering/train_df_one_hot_scaled.csv

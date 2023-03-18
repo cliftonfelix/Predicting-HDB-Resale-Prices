@@ -21,7 +21,7 @@ library(reshape2)
 # Dataset Import
 
 ```{r}
-resale_2023 = read.csv("data/resale_2023.csv")
+resale_2023 = read.csv("data/data_cleaning/resale_2023.csv")
 ```
 
 # EDA

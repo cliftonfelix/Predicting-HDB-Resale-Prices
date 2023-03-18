@@ -1,0 +1,1269 @@
+column_name,selected_by,total_selected
+floor_area_sqm,"['f_reg', 'gb', 'lasso', 'mutual_info', 'ridge', 'sfs']",6
+total_resales_in_town,"['f_reg', 'gb', 'lasso', 'mutual_info', 'ridge', 'sfs']",6
+nearest_mrt_dist,"['f_reg', 'gb', 'lasso', 'mutual_info', 'ridge', 'sfs']",6
+remaining_lease,"['f_reg', 'gb', 'lasso', 'mutual_info', 'ridge', 'sfs']",6
+town_BUKIT MERAH,"['f_reg', 'gb', 'lasso', 'mutual_info', 'ridge', 'sfs']",6
+flat_type_3 ROOM,"['f_reg', 'gb', 'lasso', 'mutual_info', 'ridge']",5
+street_name_CANTONMENT RD,"['f_reg', 'gb', 'lasso', 'ridge', 'sfs']",5
+storey_range_01 TO 03,"['f_reg', 'gb', 'lasso', 'ridge', 'sfs']",5
+storey_range_04 TO 06,"['f_reg', 'gb', 'lasso', 'ridge', 'sfs']",5
+storey_range_19 TO 21,"['f_reg', 'gb', 'lasso', 'ridge', 'sfs']",5
+flat_model_Apartment,"['f_reg', 'gb', 'mutual_info', 'ridge', 'sfs']",5
+flat_model_Maisonette,"['f_reg', 'gb', 'lasso', 'mutual_info', 'sfs']",5
+town_PASIR RIS,"['f_reg', 'gb', 'lasso', 'ridge', 'sfs']",5
+street_name_DAWSON RD,"['f_reg', 'gb', 'lasso', 'ridge', 'sfs']",5
+flat_model_Premium Apartment,"['f_reg', 'lasso', 'mutual_info', 'ridge', 'sfs']",5
+nearest_mall_dist,"['gb', 'lasso', 'mutual_info', 'ridge', 'sfs']",5
+total_nearby_mrt,"['f_reg', 'gb', 'lasso', 'mutual_info', 'sfs']",5
+street_name_ANG MO KIO ST 51,"['f_reg', 'gb', 'lasso', 'mutual_info', 'sfs']",5
+flat_model_New Generation,"['f_reg', 'lasso', 'mutual_info', 'ridge']",4
+nearest_bus_stop_Blk 18,"['gb', 'lasso', 'ridge', 'sfs']",4
+town_SEMBAWANG,"['gb', 'lasso', 'ridge', 'sfs']",4
+flat_type_2 ROOM,"['f_reg', 'gb', 'mutual_info', 'ridge']",4
+flat_type_5 ROOM,"['f_reg', 'gb', 'mutual_info', 'ridge']",4
+flat_type_EXECUTIVE,"['f_reg', 'gb', 'mutual_info', 'ridge']",4
+flat_model_Standard,"['gb', 'lasso', 'mutual_info', 'ridge']",4
+flat_model_Type S1,"['f_reg', 'lasso', 'ridge', 'sfs']",4
+flat_model_Model A,"['lasso', 'mutual_info', 'ridge', 'sfs']",4
+storey_range_16 TO 18,"['f_reg', 'gb', 'ridge', 'sfs']",4
+flat_model_Simplified,"['f_reg', 'mutual_info', 'ridge', 'sfs']",4
+flat_model_DBSS,"['f_reg', 'gb', 'lasso', 'sfs']",4
+town_MARINE PARADE,"['lasso', 'mutual_info', 'ridge', 'sfs']",4
+flat_model_Improved,"['lasso', 'mutual_info', 'ridge', 'sfs']",4
+storey_range_07 TO 09,"['gb', 'lasso', 'ridge', 'sfs']",4
+nearest_primary_school_ZHANGDE PRIMARY SCHOOL,"['f_reg', 'gb', 'lasso', 'sfs']",4
+street_name_JLN BAHAGIA,"['gb', 'lasso', 'ridge', 'sfs']",4
+town_BUKIT BATOK,"['lasso', 'mutual_info', 'ridge', 'sfs']",4
+town_BUKIT PANJANG,"['gb', 'lasso', 'ridge', 'sfs']",4
+town_HOUGANG,"['gb', 'lasso', 'ridge', 'sfs']",4
+town_CHOA CHU KANG,"['gb', 'lasso', 'ridge', 'sfs']",4
+nearest_school_WOODLANDS SECONDARY SCHOOL,"['f_reg', 'lasso', 'ridge']",3
+nearest_mrt_Admiralty,"['mutual_info', 'ridge', 'sfs']",3
+street_name_MCNAIR RD,"['gb', 'lasso', 'mutual_info']",3
+nearest_mrt_Kallang,"['f_reg', 'lasso', 'ridge']",3
+nearest_mall_Sun Plaza,"['lasso', 'ridge', 'sfs']",3
+total_resales_in_block,"['f_reg', 'gb', 'mutual_info']",3
+storey_range_10 TO 12,"['lasso', 'ridge', 'sfs']",3
+nearest_school_GAN ENG SENG PRIMARY SCHOOL,"['f_reg', 'lasso', 'mutual_info']",3
+nearest_school_BLANGAH RISE PRIMARY SCHOOL,"['f_reg', 'mutual_info', 'ridge']",3
+street_name_TELOK BLANGAH ST 31,"['f_reg', 'gb', 'lasso']",3
+storey_range_22 TO 24,"['f_reg', 'gb', 'lasso']",3
+nearest_bus_stop_Opp Blk 565,"['f_reg', 'gb', 'sfs']",3
+town_CENTRAL AREA,"['f_reg', 'mutual_info', 'sfs']",3
+street_name_ANG MO KIO AVE 3,"['f_reg', 'lasso', 'ridge']",3
+street_name_ANG MO KIO ST 44,"['f_reg', 'gb', 'lasso']",3
+nearest_school_KHENG CHENG SCHOOL,"['f_reg', 'lasso', 'ridge']",3
+storey_range_37 TO 39,"['f_reg', 'gb', 'lasso']",3
+storey_range_25 TO 27,"['f_reg', 'gb', 'lasso']",3
+flat_type_4 ROOM,"['gb', 'mutual_info', 'ridge']",3
+town_QUEENSTOWN,"['f_reg', 'gb', 'lasso']",3
+town_ANG MO KIO,"['gb', 'lasso', 'ridge']",3
+town_SENGKANG,"['lasso', 'ridge', 'sfs']",3
+town_TAMPINES,"['gb', 'lasso', 'mutual_info']",3
+town_WOODLANDS,"['gb', 'lasso', 'ridge']",3
+nearest_mrt_Toa Payoh,"['gb', 'lasso', 'mutual_info']",3
+street_name_CLEMENTI AVE 3,"['gb', 'lasso', 'ridge']",3
+town_JURONG EAST,"['gb', 'lasso', 'sfs']",3
+town_BEDOK,"['f_reg', 'gb', 'lasso']",3
+storey_range_31 TO 33,"['f_reg', 'gb', 'lasso']",3
+nearest_primary_school_RADIN MAS PRIMARY SCHOOL,"['lasso', 'ridge', 'sfs']",3
+nearest_mrt_Tiong Bahru,"['f_reg', 'gb', 'lasso']",3
+nearest_mrt_Sengkang,"['lasso', 'mutual_info', 'ridge']",3
+total_resales_in_street,"['f_reg', 'gb', 'mutual_info']",3
+nearest_mrt_Outram Park,"['f_reg', 'gb', 'lasso']",3
+storey_range_28 TO 30,"['f_reg', 'gb', 'lasso']",3
+flat_model_Model A2,"['mutual_info', 'ridge']",2
+nearest_school_EUNOS PRIMARY SCHOOL,"['lasso', 'ridge']",2
+total_nearby_school,"['gb', 'mutual_info']",2
+street_name_HOLLAND DR,"['ridge', 'sfs']",2
+nearest_school_NAN CHIAU HIGH SCHOOL,"['lasso', 'mutual_info']",2
+nearest_school_MAYFLOWER SECONDARY SCHOOL,"['lasso', 'sfs']",2
+nearest_primary_school_YEW TEE PRIMARY SCHOOL,"['gb', 'mutual_info']",2
+nearest_primary_school_dist,"['gb', 'mutual_info']",2
+total_nearby_bus_stop,"['gb', 'mutual_info']",2
+nearest_primary_school_QIFA PRIMARY SCHOOL,"['f_reg', 'ridge']",2
+nearest_school_CANTONMENT PRIMARY SCHOOL,"['f_reg', 'lasso']",2
+nearest_mall_Taman Jurong Shopping Centre,"['lasso', 'ridge']",2
+nearest_mall_Boon Lay Shopping Centre,"['f_reg', 'sfs']",2
+nearest_mall_Buangkok Square,"['lasso', 'sfs']",2
+nearest_mall_Bukit Panjang Plaza,"['gb', 'sfs']",2
+nearest_mall_Gek Poh Shopping Centre,"['lasso', 'ridge']",2
+nearest_mrt_Sembawang,"['gb', 'ridge']",2
+nearest_mrt_Pioneer,"['lasso', 'sfs']",2
+nearest_mrt_Lorong Chuan,"['lasso', 'ridge']",2
+nearest_mall_Northpoint City,"['f_reg', 'mutual_info']",2
+nearest_mall_Parkway Parade,"['lasso', 'mutual_info']",2
+nearest_mall_Pioneer Mall,"['lasso', 'ridge']",2
+nearest_mrt_Kovan,"['gb', 'ridge']",2
+nearest_mrt_Clementi,"['gb', 'sfs']",2
+nearest_school_BUKIT MERAH SECONDARY SCHOOL,"['ridge', 'sfs']",2
+nearest_mall_Tanjong Pagar Centre,"['f_reg', 'gb']",2
+nearest_school_dist,"['gb', 'mutual_info']",2
+nearest_mall_The Clementi Mall,"['f_reg', 'gb']",2
+nearest_mall_Thomson V,"['ridge', 'sfs']",2
+nearest_mall_Waterway Point,"['gb', 'lasso']",2
+nearest_mall_West Mall,"['gb', 'lasso']",2
+street_name_ANG MO KIO AVE 10,"['f_reg', 'ridge']",2
+town_PUNGGOL,"['gb', 'mutual_info']",2
+nearest_school_ANDERSON SECONDARY SCHOOL,"['f_reg', 'sfs']",2
+nearest_school_ANGLO-CHINESE SCHOOL (INDEPENDENT),"['lasso', 'sfs']",2
+nearest_school_BROADRICK SECONDARY SCHOOL,"['gb', 'lasso']",2
+nearest_mall_i12 Katong,"['lasso', 'mutual_info']",2
+nearest_mall_Alexandra Retail Centre,"['f_reg', 'ridge']",2
+town_YISHUN,"['f_reg', 'ridge']",2
+nearest_primary_school_JIEMIN PRIMARY SCHOOL,"['f_reg', 'ridge']",2
+street_name_SUMANG LANE,"['ridge', 'sfs']",2
+nearest_primary_school_KHENG CHENG SCHOOL,"['f_reg', 'sfs']",2
+street_name_SERANGOON AVE 2,"['lasso', 'ridge']",2
+nearest_primary_school_BLANGAH RISE PRIMARY SCHOOL,"['f_reg', 'ridge']",2
+street_name_TOH GUAN RD,"['lasso', 'ridge']",2
+street_name_LOR 2 TOA PAYOH,"['f_reg', 'lasso']",2
+nearest_primary_school_CANTONMENT PRIMARY SCHOOL,"['f_reg', 'sfs']",2
+nearest_school_PUNGGOL GREEN PRIMARY SCHOOL,"['ridge', 'sfs']",2
+nearest_primary_school_JING SHAN PRIMARY SCHOOL,"['lasso', 'mutual_info']",2
+nearest_primary_school_AHMAD IBRAHIM PRIMARY SCHOOL,"['f_reg', 'ridge']",2
+storey_range_13 TO 15,"['ridge', 'sfs']",2
+town_SERANGOON,"['ridge', 'sfs']",2
+street_name_BOON TIONG RD,"['f_reg', 'lasso']",2
+nearest_school_RULANG PRIMARY SCHOOL,"['mutual_info', 'ridge']",2
+town_JURONG WEST,"['gb', 'sfs']",2
+block_2,"['lasso', 'sfs']",2
+street_name_BISHAN ST 13,"['f_reg', 'lasso']",2
+street_name_PASIR RIS DR 10,['mutual_info'],1
+nearest_mrt_Mattar,['f_reg'],1
+nearest_mrt_Hougang,['ridge'],1
+nearest_mrt_Labrador Park,['f_reg'],1
+nearest_mrt_Lakeside,['gb'],1
+nearest_mrt_Lavender,['lasso'],1
+street_name_JURONG WEST ST 81,['mutual_info'],1
+storey_range_34 TO 36,['f_reg'],1
+nearest_mrt_Punggol,['gb'],1
+street_name_JURONG WEST ST 42,['sfs'],1
+nearest_mrt_Pasir Ris,['ridge'],1
+street_name_JURONG WEST CTRL 1,['gb'],1
+street_name_PASIR RIS ST 71,['mutual_info'],1
+street_name_JURONG EAST ST 32,['ridge'],1
+street_name_JURONG EAST ST 24,['ridge'],1
+nearest_mrt_Tampines,['gb'],1
+nearest_mrt_Tampines East,['sfs'],1
+nearest_mrt_Telok Blangah,['f_reg'],1
+street_name_JURONG EAST ST 21,['ridge'],1
+street_name_JLN TENAGA,['mutual_info'],1
+nearest_mrt_Ubi,['ridge'],1
+nearest_mrt_Woodlands,['sfs'],1
+nearest_mrt_Yishun,['f_reg'],1
+street_name_JURONG EAST AVE 1,['ridge'],1
+street_name_PASIR RIS ST 12,['mutual_info'],1
+nearest_mrt_Bukit Panjang,['gb'],1
+nearest_mrt_Dover,['f_reg'],1
+street_name_PENDING RD,['mutual_info'],1
+street_name_HOUGANG ST 51,['sfs'],1
+street_name_JLN TECK WHYE,['gb'],1
+nearest_mall_Anchorpoint,['f_reg'],1
+street_name_YUAN CHING RD,['sfs'],1
+street_name_YISHUN ST 81,['sfs'],1
+street_name_YISHUN ST 31,['sfs'],1
+street_name_YISHUN RING RD,['f_reg'],1
+street_name_YISHUN AVE 9,['sfs'],1
+street_name_WOODLANDS ST 81,['f_reg'],1
+street_name_WOODLANDS DR 14,['mutual_info'],1
+street_name_UPP BOON KENG RD,['ridge'],1
+street_name_UBI AVE 1,['mutual_info'],1
+street_name_TAMPINES ST 12,['mutual_info'],1
+street_name_TAMPINES ST 11,['lasso'],1
+street_name_TAMPINES AVE 9,['sfs'],1
+street_name_SUMANG WALK,['sfs'],1
+nearest_mrt_Ang Mo Kio,['gb'],1
+nearest_mrt_Bedok North,['sfs'],1
+nearest_mrt_Bedok Reservoir,['lasso'],1
+nearest_mrt_Bendemeer,['lasso'],1
+nearest_mrt_Bishan,['f_reg'],1
+street_name_RIVERVALE DR,['mutual_info'],1
+nearest_mrt_Boon Lay,['lasso'],1
+street_name_REDHILL RD,['f_reg'],1
+nearest_mrt_Braddell,['sfs'],1
+nearest_mrt_Caldecott,['f_reg'],1
+street_name_PUNGGOL PL,['lasso'],1
+street_name_PUNGGOL FIELD,['lasso'],1
+street_name_PUNGGOL CTRL,['gb'],1
+flat_model_2-room,['ridge'],1
+nearest_mall_Thomson Plaza,['lasso'],1
+nearest_mall_Bedok Mall,['f_reg'],1
+nearest_bus_stop_Blk 286A,['f_reg'],1
+nearest_bus_stop_Opp St. Joseph's Hme,['sfs'],1
+nearest_bus_stop_Opp Hong San Terr,['gb'],1
+nearest_bus_stop_Opp Blk 91A,['f_reg'],1
+nearest_bus_stop_Opp Blk 178A,['sfs'],1
+nearest_bus_stop_Opp Bishan Nth Shop Mall,['f_reg'],1
+nearest_bus_stop_Opp Admiralty Sec Sch,['mutual_info'],1
+nearest_bus_stop_Layar Stn Exit A/Blk 417A,['sfs'],1
+nearest_bus_stop_Boon Keng Stn/Blk 102,['sfs'],1
+nearest_bus_stop_Blk 92B,['f_reg'],1
+nearest_bus_stop_Blk 537,['gb'],1
+nearest_bus_stop_Blk 477A,['ridge'],1
+nearest_bus_stop_Blk 233,['mutual_info'],1
+nearest_primary_school_AI TONG SCHOOL,['mutual_info'],1
+nearest_bus_stop_Blk 19A CP,['f_reg'],1
+nearest_bus_stop_Bet Blks 33/34,['gb'],1
+nearest_bus_stop_Aft Hasanah Mque,['sfs'],1
+nearest_school_ZHANGDE PRIMARY SCHOOL,['f_reg'],1
+nearest_school_YUYING SECONDARY SCHOOL,['sfs'],1
+nearest_school_WHITLEY SECONDARY SCHOOL,['ridge'],1
+nearest_school_WHITE SANDS PRIMARY SCHOOL,['ridge'],1
+nearest_school_WEST SPRING SECONDARY SCHOOL,['gb'],1
+nearest_school_UNITY SECONDARY SCHOOL,['mutual_info'],1
+nearest_school_TEMASEK PRIMARY SCHOOL,['mutual_info'],1
+nearest_school_SPRINGDALE PRIMARY SCHOOL,['mutual_info'],1
+nearest_bus_stop_Opp Woodgrove Sec Sch,['mutual_info'],1
+nearest_primary_school_BEDOK GREEN PRIMARY SCHOOL,['lasso'],1
+nearest_mall_Canberra Plaza,['mutual_info'],1
+nearest_primary_school_MARSILING PRIMARY SCHOOL,['f_reg'],1
+nearest_primary_school_XINMIN PRIMARY SCHOOL,['sfs'],1
+nearest_primary_school_VALOUR PRIMARY SCHOOL,['mutual_info'],1
+nearest_primary_school_ST. ANTHONY'S CANOSSIAN PRIMARY SCHOOL,['gb'],1
+nearest_primary_school_RULANG PRIMARY SCHOOL,['ridge'],1
+nearest_primary_school_RIVERSIDE PRIMARY SCHOOL,['sfs'],1
+nearest_primary_school_QUEENSTOWN PRIMARY SCHOOL,['gb'],1
+nearest_primary_school_PUNGGOL GREEN PRIMARY SCHOOL,['mutual_info'],1
+nearest_primary_school_PEI TONG PRIMARY SCHOOL,['gb'],1
+nearest_primary_school_NORTH VIEW PRIMARY SCHOOL,['mutual_info'],1
+nearest_primary_school_NGEE ANN PRIMARY SCHOOL,['mutual_info'],1
+nearest_primary_school_NAN HUA PRIMARY SCHOOL,['ridge'],1
+nearest_primary_school_MAHA BODHI SCHOOL,['sfs'],1
+nearest_primary_school_BUKIT PANJANG PRIMARY SCHOOL,['mutual_info'],1
+nearest_primary_school_KUO CHUAN PRESBYTERIAN PRIMARY SCHOOL,['f_reg'],1
+nearest_primary_school_JURONG PRIMARY SCHOOL,['mutual_info'],1
+nearest_primary_school_HUAMIN PRIMARY SCHOOL,['sfs'],1
+nearest_primary_school_HENRY PARK PRIMARY SCHOOL,['f_reg'],1
+nearest_primary_school_FUHUA PRIMARY SCHOOL,['ridge'],1
+nearest_primary_school_FUCHUN PRIMARY SCHOOL,['sfs'],1
+nearest_primary_school_EAST SPRING PRIMARY SCHOOL,['sfs'],1
+nearest_primary_school_DE LA SALLE SCHOOL,['gb'],1
+nearest_primary_school_CLEMENTI PRIMARY SCHOOL,['ridge'],1
+nearest_primary_school_CHONGZHENG PRIMARY SCHOOL,['mutual_info'],1
+nearest_primary_school_BUKIT VIEW PRIMARY SCHOOL,['mutual_info'],1
+nearest_school_SERANGOON GARDEN SECONDARY SCHOOL,['ridge'],1
+"nearest_school_SCHOOL OF THE ARTS, SINGAPORE",['mutual_info'],1
+nearest_school_ROSYTH SCHOOL,['ridge'],1
+nearest_mall_Limbang Shopping Centre,['lasso'],1
+nearest_mall_The Star Vista,['f_reg'],1
+nearest_mall_Tampines Mall,['sfs'],1
+nearest_mall_Tampines 1,['mutual_info'],1
+nearest_mall_Rivervale Plaza,['mutual_info'],1
+nearest_mall_Rivervale Mall,['sfs'],1
+nearest_mall_Punggol Plaza,['sfs'],1
+nearest_mall_Paya Lebar Square,['sfs'],1
+nearest_mall_Our Tampines Hub,['gb'],1
+nearest_mall_Oasis Terraces,['sfs'],1
+nearest_mall_NEX,['gb'],1
+nearest_mall_Marsiling Mall,['f_reg'],1
+nearest_mall_Keat Hong Shopping Centre,['mutual_info'],1
+nearest_school_PUNGGOL SECONDARY SCHOOL,['mutual_info'],1
+nearest_mall_Jurong Point,['ridge'],1
+nearest_mall_Junction 8,['f_reg'],1
+nearest_mall_Junction 10,['lasso'],1
+nearest_mall_JCube,['lasso'],1
+nearest_mall_IMM,['ridge'],1
+nearest_mall_Hillion Mall,['sfs'],1
+nearest_mall_HDB Hub,['gb'],1
+nearest_mall_Grantral Mall,['lasso'],1
+nearest_mall_Fajar Shopping Centre,['gb'],1
+nearest_mall_Compass One,['mutual_info'],1
+nearest_mall_City Square Mall,['f_reg'],1
+street_name_EUNOS CRES,['ridge'],1
+nearest_mall_Tiong Bahru Plaza,['mutual_info'],1
+nearest_mall_West Coast Plaza,['sfs'],1
+nearest_mall_White Sands,['mutual_info'],1
+nearest_school_PALM VIEW PRIMARY SCHOOL,['sfs'],1
+nearest_school_OASIS PRIMARY SCHOOL,['mutual_info'],1
+nearest_school_NORTHLIGHT SCHOOL,['lasso'],1
+nearest_school_NORTH VISTA PRIMARY SCHOOL,['sfs'],1
+nearest_school_NAN HUA HIGH SCHOOL,['sfs'],1
+nearest_school_KUO CHUAN PRESBYTERIAN PRIMARY SCHOOL,['f_reg'],1
+nearest_school_KRANJI SECONDARY SCHOOL,['mutual_info'],1
+nearest_school_KEMING PRIMARY SCHOOL,['mutual_info'],1
+nearest_school_HOUGANG PRIMARY SCHOOL,['mutual_info'],1
+nearest_school_FUHUA PRIMARY SCHOOL,['ridge'],1
+nearest_school_EAST SPRING SECONDARY SCHOOL,['mutual_info'],1
+nearest_school_COMMONWEALTH SECONDARY SCHOOL,['gb'],1
+nearest_school_CHUNG CHENG HIGH SCHOOL (YISHUN),['sfs'],1
+nearest_school_CATHOLIC HIGH SCHOOL,['f_reg'],1
+nearest_school_CASUARINA PRIMARY SCHOOL,['mutual_info'],1
+nearest_school_CANOSSA CATHOLIC PRIMARY SCHOOL,['mutual_info'],1
+nearest_school_ANGSANA PRIMARY SCHOOL,['mutual_info'],1
+nearest_school_ANGLO-CHINESE JUNIOR COLLEGE,['f_reg'],1
+nearest_school_ANG MO KIO PRIMARY SCHOOL,['lasso'],1
+nearest_mall_myVillage At Serangoon Garden,['sfs'],1
+nearest_mall_Yew Tee Square,['mutual_info'],1
+nearest_mall_Woodlands Mart,['mutual_info'],1
+nearest_mall_Wisteria Mall,['sfs'],1
+street_name_GHIM MOH LINK,['f_reg'],1
+nearest_mall_Teck Whye Shopping Centre,['sfs'],1
+block_43,['mutual_info'],1
+block_23,['gb'],1
+total_nearby_primary_school,['gb'],1
+street_name_BISHAN ST 24,['f_reg'],1
+street_name_BOON LAY AVE,['ridge'],1
+town_KALLANG/WHAMPOA,['lasso'],1
+street_name_CLEMENTI AVE 6,['ridge'],1
+street_name_BOON LAY DR,['sfs'],1
+street_name_CLEMENTI AVE 5,['mutual_info'],1
+street_name_CHOA CHU KANG AVE 3,['mutual_info'],1
+town_CLEMENTI,['gb'],1
+block_345,['mutual_info'],1
+street_name_BOON LAY PL,['mutual_info'],1
+town_BISHAN,['f_reg'],1
+street_name_CLEMENTI AVE 4,['ridge'],1
+block_93B,['f_reg'],1
+street_name_BT BATOK WEST AVE 5,['mutual_info'],1
+month_2023-01,['gb'],1
+street_name_ADMIRALTY LINK,['gb'],1
+block_104A,['gb'],1
+block_111,['gb'],1
+block_207,['mutual_info'],1
+street_name_ANCHORVALE RD,['mutual_info'],1
+street_name_BANGKIT RD,['sfs'],1
+street_name_BEDOK STH AVE 2,['mutual_info'],1
+nearest_bus_stop_dist,['gb'],1
+street_name_ANG MO KIO AVE 5,['ridge'],1
+total_nearby_mall,['gb'],1
+street_name_CHOA CHU KANG CTRL,['mutual_info'],1
+street_name_ANG MO KIO ST 52,['f_reg'],1
+street_name_BEDOK NTH ST 3,['f_reg'],1
+street_name_DOVER CRES,['gb'],1
+nearest_bus_stop_Blk 32,[],0
+nearest_bus_stop_Blk 27,[],0
+nearest_bus_stop_Blk 272,[],0
+nearest_bus_stop_Blk 322,[],0
+nearest_bus_stop_Blk 272C,[],0
+nearest_bus_stop_Blk 286B,[],0
+nearest_bus_stop_Blk 316,[],0
+nearest_bus_stop_Blk 291A,[],0
+nearest_bus_stop_Blk 302,[],0
+nearest_bus_stop_Blk 298,[],0
+nearest_bus_stop_Blk 296A,[],0
+nearest_bus_stop_Blk 283,[],0
+block_142,[],0
+nearest_bus_stop_Blk 25,[],0
+nearest_bus_stop_Blk 268C,[],0
+street_name_EDGEFIELD PLAINS,[],0
+nearest_bus_stop_Blk 248,[],0
+block_143,[],0
+nearest_bus_stop_Blk 129,[],0
+nearest_bus_stop_Blk 129A,[],0
+nearest_bus_stop_Blk 131,[],0
+nearest_bus_stop_Blk 137,[],0
+nearest_bus_stop_Blk 147,[],0
+nearest_bus_stop_Blk 151,[],0
+nearest_bus_stop_Blk 157,[],0
+nearest_bus_stop_Blk 163,[],0
+nearest_bus_stop_Blk 166,[],0
+nearest_bus_stop_Blk 169,[],0
+nearest_bus_stop_Blk 17,[],0
+nearest_bus_stop_Blk 176,[],0
+block_151,[],0
+nearest_bus_stop_Blk 180,[],0
+nearest_bus_stop_Blk 19,[],0
+nearest_bus_stop_Blk 190,[],0
+nearest_bus_stop_Blk 190C,[],0
+block_149,[],0
+nearest_bus_stop_Blk 201,[],0
+nearest_bus_stop_Blk 202,[],0
+nearest_bus_stop_Blk 203,[],0
+nearest_bus_stop_Blk 206,[],0
+nearest_bus_stop_Blk 207,[],0
+nearest_bus_stop_Blk 217,[],0
+nearest_bus_stop_Blk 22,[],0
+nearest_bus_stop_Blk 220C,[],0
+nearest_bus_stop_Blk 325,[],0
+nearest_bus_stop_Blk 226A,[],0
+nearest_bus_stop_Blk 230,[],0
+nearest_bus_stop_Blk 224A,[],0
+nearest_bus_stop_Blk 343,[],0
+nearest_bus_stop_Blk 329,[],0
+nearest_bus_stop_Blk 548B,[],0
+nearest_bus_stop_Blk 50,[],0
+nearest_bus_stop_Blk 504C,[],0
+nearest_bus_stop_Blk 505C,[],0
+nearest_bus_stop_Blk 526,[],0
+nearest_bus_stop_Blk 527,[],0
+nearest_bus_stop_Blk 532,[],0
+nearest_bus_stop_Blk 534,[],0
+block_139,[],0
+nearest_bus_stop_Blk 538,[],0
+nearest_bus_stop_Blk 54,[],0
+nearest_bus_stop_Blk 541A CP,[],0
+nearest_bus_stop_Blk 544,[],0
+nearest_bus_stop_Blk 551,[],0
+nearest_bus_stop_Blk 334,[],0
+nearest_bus_stop_Blk 554,[],0
+nearest_bus_stop_Blk 573A,[],0
+nearest_bus_stop_Blk 586,[],0
+nearest_bus_stop_Blk 589,[],0
+nearest_bus_stop_Blk 604A,[],0
+nearest_bus_stop_Blk 608,[],0
+nearest_bus_stop_Blk 628,[],0
+nearest_bus_stop_Blk 636A,[],0
+nearest_bus_stop_Blk 639,[],0
+nearest_bus_stop_Blk 643,[],0
+nearest_bus_stop_Blk 666,[],0
+nearest_bus_stop_Blk 67,[],0
+nearest_bus_stop_Blk 491C,[],0
+nearest_bus_stop_Blk 485,[],0
+nearest_bus_stop_Blk 482A CP,[],0
+block_14,[],0
+nearest_bus_stop_Blk 335,[],0
+nearest_bus_stop_Blk 34,[],0
+nearest_bus_stop_Blk 342B,[],0
+nearest_bus_stop_Blk 126 Cp,[],0
+nearest_bus_stop_Blk 346,[],0
+nearest_bus_stop_Blk 352,[],0
+nearest_bus_stop_Blk 354,[],0
+nearest_bus_stop_Blk 36,[],0
+nearest_bus_stop_Blk 390,[],0
+nearest_bus_stop_Blk 40,[],0
+nearest_bus_stop_Blk 402,[],0
+nearest_bus_stop_Blk 416,[],0
+nearest_bus_stop_Blk 423,[],0
+nearest_bus_stop_Blk 425,[],0
+nearest_bus_stop_Blk 427,[],0
+nearest_bus_stop_Blk 429A Cp,[],0
+nearest_bus_stop_Blk 432C,[],0
+nearest_bus_stop_Blk 44,[],0
+nearest_bus_stop_Blk 443,[],0
+nearest_bus_stop_Blk 443D,[],0
+nearest_bus_stop_Blk 448A,[],0
+nearest_bus_stop_Blk 448B,[],0
+nearest_bus_stop_Blk 45,[],0
+nearest_bus_stop_Blk 457,[],0
+nearest_bus_stop_Blk 469B,[],0
+nearest_bus_stop_Blk 128,[],0
+nearest_bus_stop_Blk 108 CP,[],0
+nearest_bus_stop_Blk 125,[],0
+block_168A,[],0
+nearest_school_RIVERVALE PRIMARY SCHOOL,[],0
+block_20,[],0
+block_187,[],0
+block_181,[],0
+nearest_school_SEMBAWANG PRIMARY SCHOOL,[],0
+nearest_school_SEMBAWANG SECONDARY SCHOOL,[],0
+nearest_school_SENG KANG SECONDARY SCHOOL,[],0
+nearest_school_SENGKANG GREEN PRIMARY SCHOOL,[],0
+block_180B,[],0
+nearest_school_SERANGOON SECONDARY SCHOOL,[],0
+nearest_school_SOUTH VIEW PRIMARY SCHOOL,[],0
+nearest_school_SPECTRA SECONDARY SCHOOL,[],0
+block_18,[],0
+nearest_school_SPRINGFIELD SECONDARY SCHOOL,[],0
+nearest_school_ST. ANTHONY'S CANOSSIAN PRIMARY SCHOOL,[],0
+nearest_school_ST. ANTHONY'S PRIMARY SCHOOL,[],0
+nearest_school_ST. GABRIEL'S SECONDARY SCHOOL,[],0
+nearest_school_ST. HILDA'S PRIMARY SCHOOL,[],0
+nearest_school_ST. HILDA'S SECONDARY SCHOOL,[],0
+nearest_school_ST. MARGARET'S PRIMARY SCHOOL,[],0
+nearest_school_STAMFORD PRIMARY SCHOOL,[],0
+nearest_school_SWISS COTTAGE SECONDARY SCHOOL,[],0
+nearest_school_TAMPINES SECONDARY SCHOOL,[],0
+nearest_school_TANGLIN SECONDARY SCHOOL,[],0
+nearest_school_TAO NAN SCHOOL,[],0
+nearest_school_TECK GHEE PRIMARY SCHOOL,[],0
+nearest_school_TECK WHYE SECONDARY SCHOOL,[],0
+nearest_school_RIVERSIDE PRIMARY SCHOOL,[],0
+nearest_school_RIVER VALLEY HIGH SCHOOL,[],0
+nearest_school_RAFFLES GIRLS' SCHOOL (SECONDARY),[],0
+nearest_school_PEI TONG PRIMARY SCHOOL,[],0
+nearest_school_NORTHLAND PRIMARY SCHOOL,[],0
+nearest_school_NORTHLAND SECONDARY SCHOOL,[],0
+block_21,[],0
+block_209,[],0
+nearest_school_ORCHID PARK SECONDARY SCHOOL,[],0
+nearest_school_OUTRAM SECONDARY SCHOOL,[],0
+nearest_school_PARK VIEW PRIMARY SCHOOL,[],0
+nearest_school_PASIR RIS PRIMARY SCHOOL,[],0
+nearest_school_PASIR RIS SECONDARY SCHOOL,[],0
+nearest_school_PAYA LEBAR METHODIST GIRLS' SCHOOL (SECONDARY),[],0
+nearest_school_PEI CHUN PUBLIC SCHOOL,[],0
+nearest_school_PEI HWA SECONDARY SCHOOL,[],0
+nearest_school_PEICAI SECONDARY SCHOOL,[],0
+nearest_school_QUEENSWAY SECONDARY SCHOOL,[],0
+nearest_school_PING YI SECONDARY SCHOOL,[],0
+nearest_school_PIONEER PRIMARY SCHOOL,[],0
+nearest_school_POI CHING SCHOOL,[],0
+nearest_school_PRINCESS ELIZABETH PRIMARY SCHOOL,[],0
+nearest_school_PUNGGOL COVE PRIMARY SCHOOL,[],0
+block_206,[],0
+nearest_school_PUNGGOL PRIMARY SCHOOL,[],0
+block_202,[],0
+nearest_school_PUNGGOL VIEW PRIMARY SCHOOL,[],0
+nearest_school_QIHUA PRIMARY SCHOOL,[],0
+nearest_school_QUEENSTOWN PRIMARY SCHOOL,[],0
+nearest_school_QUEENSTOWN SECONDARY SCHOOL,[],0
+nearest_school_TELOK KURAU PRIMARY SCHOOL,[],0
+nearest_school_UNITY PRIMARY SCHOOL,[],0
+nearest_bus_stop_Blk 124,[],0
+block_166B,[],0
+block_157,[],0
+block_155,[],0
+nearest_school_ZHENGHUA PRIMARY SCHOOL,[],0
+nearest_bus_stop_Aft Blk 467B,[],0
+block_154,[],0
+nearest_bus_stop_Aft Punggol Rd,[],0
+nearest_bus_stop_Bef 888 Plaza,[],0
+nearest_bus_stop_Bef Lavender St,[],0
+nearest_bus_stop_Bet Blks 139/140,[],0
+nearest_bus_stop_Bet Blks 315/318,[],0
+block_152,[],0
+nearest_bus_stop_Bet Blks 357/359,[],0
+nearest_bus_stop_Bet Blks 445/449,[],0
+nearest_bus_stop_Bet Blks 701/702,[],0
+nearest_bus_stop_Blk 10,[],0
+nearest_bus_stop_Blk 101,[],0
+nearest_bus_stop_Blk 102,[],0
+nearest_bus_stop_Blk 104C,[],0
+nearest_bus_stop_Blk 106,[],0
+nearest_bus_stop_Blk 108,[],0
+nearest_bus_stop_Blk 676 CP,[],0
+nearest_bus_stop_Blk 112,[],0
+nearest_bus_stop_Blk 114,[],0
+nearest_bus_stop_Blk 115,[],0
+nearest_bus_stop_Blk 115C,[],0
+nearest_bus_stop_Blk 121,[],0
+nearest_bus_stop_Blk 122,[],0
+nearest_school_YUMIN PRIMARY SCHOOL,[],0
+nearest_school_YUHUA PRIMARY SCHOOL,[],0
+nearest_school_YUAN CHING SECONDARY SCHOOL,[],0
+nearest_school_WOODGROVE SECONDARY SCHOOL,[],0
+nearest_school_VALOUR PRIMARY SCHOOL,[],0
+nearest_school_WATERWAY PRIMARY SCHOOL,[],0
+nearest_school_WELLINGTON PRIMARY SCHOOL,[],0
+nearest_school_WEST GROVE PRIMARY SCHOOL,[],0
+nearest_school_WEST SPRING PRIMARY SCHOOL,[],0
+block_165,[],0
+nearest_school_WEST VIEW PRIMARY SCHOOL,[],0
+nearest_school_WESTWOOD PRIMARY SCHOOL,[],0
+nearest_school_WESTWOOD SECONDARY SCHOOL,[],0
+block_163,[],0
+block_16,[],0
+nearest_school_WOODGROVE PRIMARY SCHOOL,[],0
+nearest_school_WOODLANDS PRIMARY SCHOOL,[],0
+nearest_school_YU NENG PRIMARY SCHOOL,[],0
+nearest_school_WOODLANDS RING PRIMARY SCHOOL,[],0
+nearest_school_WOODLANDS RING SECONDARY SCHOOL,[],0
+block_158,[],0
+nearest_school_XINGHUA PRIMARY SCHOOL,[],0
+nearest_school_XINGNAN PRIMARY SCHOOL,[],0
+nearest_school_XINMIN PRIMARY SCHOOL,[],0
+nearest_school_XINMIN SECONDARY SCHOOL,[],0
+nearest_school_XISHAN PRIMARY SCHOOL,[],0
+nearest_school_YIO CHU KANG PRIMARY SCHOOL,[],0
+nearest_school_YIO CHU KANG SECONDARY SCHOOL,[],0
+nearest_school_YISHUN SECONDARY SCHOOL,[],0
+nearest_school_YISHUN TOWN SECONDARY SCHOOL,[],0
+nearest_bus_stop_Blk 671 CP,[],0
+nearest_bus_stop_Blk 788E,[],0
+nearest_bus_stop_Blk 682A,[],0
+nearest_primary_school_MONTFORT JUNIOR SCHOOL,[],0
+nearest_primary_school_KEMING PRIMARY SCHOOL,[],0
+block_107,[],0
+nearest_primary_school_KONG HWA SCHOOL,[],0
+nearest_primary_school_KRANJI PRIMARY SCHOOL,[],0
+block_105,[],0
+nearest_primary_school_LAKESIDE PRIMARY SCHOOL,[],0
+nearest_primary_school_LIANHUA PRIMARY SCHOOL,[],0
+block_104,[],0
+nearest_primary_school_MARYMOUNT CONVENT SCHOOL,[],0
+nearest_primary_school_MAYFLOWER PRIMARY SCHOOL,[],0
+nearest_primary_school_MEE TOH SCHOOL,[],0
+nearest_primary_school_MERIDIAN PRIMARY SCHOOL,[],0
+nearest_primary_school_NAN CHIAU PRIMARY SCHOOL,[],0
+nearest_bus_stop_Blk 691D,[],0
+block_103,[],0
+nearest_primary_school_NAVAL BASE PRIMARY SCHOOL,[],0
+nearest_primary_school_NEW TOWN PRIMARY SCHOOL,[],0
+block_102,[],0
+nearest_primary_school_NORTH SPRING PRIMARY SCHOOL,[],0
+block_101,[],0
+nearest_primary_school_NORTH VISTA PRIMARY SCHOOL,[],0
+nearest_primary_school_NORTHLAND PRIMARY SCHOOL,[],0
+nearest_primary_school_OASIS PRIMARY SCHOOL,[],0
+nearest_primary_school_OPERA ESTATE PRIMARY SCHOOL,[],0
+nearest_primary_school_PALM VIEW PRIMARY SCHOOL,[],0
+nearest_primary_school_PARK VIEW PRIMARY SCHOOL,[],0
+nearest_primary_school_JUYING PRIMARY SCHOOL,[],0
+nearest_primary_school_JURONG WEST PRIMARY SCHOOL,[],0
+block_108,[],0
+nearest_primary_school_JUNYUAN PRIMARY SCHOOL,[],0
+nearest_primary_school_FAIRFIELD METHODIST SCHOOL (PRIMARY),[],0
+nearest_primary_school_FARRER PARK PRIMARY SCHOOL,[],0
+nearest_primary_school_FENGSHAN PRIMARY SCHOOL,[],0
+nearest_primary_school_FERN GREEN PRIMARY SCHOOL,[],0
+nearest_primary_school_FERNVALE PRIMARY SCHOOL,[],0
+nearest_primary_school_FIRST TOA PAYOH PRIMARY SCHOOL,[],0
+nearest_primary_school_FRONTIER PRIMARY SCHOOL,[],0
+block_112,[],0
+nearest_primary_school_GAN ENG SENG PRIMARY SCHOOL,[],0
+nearest_primary_school_GEYLANG METHODIST SCHOOL (PRIMARY),[],0
+nearest_primary_school_GONGSHANG PRIMARY SCHOOL,[],0
+nearest_primary_school_GREENDALE PRIMARY SCHOOL,[],0
+nearest_primary_school_GREENRIDGE PRIMARY SCHOOL,[],0
+nearest_primary_school_GREENWOOD PRIMARY SCHOOL,[],0
+nearest_primary_school_GUANGYANG PRIMARY SCHOOL,[],0
+nearest_primary_school_HAIG GIRLS' SCHOOL,[],0
+block_110,[],0
+nearest_primary_school_HOLY INNOCENTS' PRIMARY SCHOOL,[],0
+nearest_primary_school_HONG WEN SCHOOL,[],0
+nearest_primary_school_HORIZON PRIMARY SCHOOL,[],0
+nearest_primary_school_HOUGANG PRIMARY SCHOOL,[],0
+block_11,[],0
+nearest_primary_school_INNOVA PRIMARY SCHOOL,[],0
+block_109,[],0
+block_108C,[],0
+nearest_primary_school_PASIR RIS PRIMARY SCHOOL,[],0
+nearest_primary_school_PAYA LEBAR METHODIST GIRLS' SCHOOL (PRIMARY),[],0
+nearest_primary_school_PEI CHUN PUBLIC SCHOOL,[],0
+nearest_primary_school_TAO NAN SCHOOL,[],0
+nearest_primary_school_TECK WHYE PRIMARY SCHOOL,[],0
+nearest_primary_school_TELOK KURAU PRIMARY SCHOOL,[],0
+nearest_primary_school_TEMASEK PRIMARY SCHOOL,[],0
+nearest_primary_school_TOWNSVILLE PRIMARY SCHOOL,[],0
+nearest_primary_school_UNITY PRIMARY SCHOOL,[],0
+nearest_primary_school_WATERWAY PRIMARY SCHOOL,[],0
+nearest_primary_school_WELLINGTON PRIMARY SCHOOL,[],0
+nearest_primary_school_WEST GROVE PRIMARY SCHOOL,[],0
+nearest_primary_school_WEST SPRING PRIMARY SCHOOL,[],0
+nearest_primary_school_WEST VIEW PRIMARY SCHOOL,[],0
+nearest_primary_school_WESTWOOD PRIMARY SCHOOL,[],0
+nearest_primary_school_WHITE SANDS PRIMARY SCHOOL,[],0
+nearest_primary_school_WOODGROVE PRIMARY SCHOOL,[],0
+nearest_primary_school_WOODLANDS PRIMARY SCHOOL,[],0
+nearest_primary_school_WOODLANDS RING PRIMARY SCHOOL,[],0
+nearest_primary_school_XINGHUA PRIMARY SCHOOL,[],0
+nearest_primary_school_XINGNAN PRIMARY SCHOOL,[],0
+nearest_primary_school_XISHAN PRIMARY SCHOOL,[],0
+nearest_primary_school_YANGZHENG PRIMARY SCHOOL,[],0
+within_1_km_to_nearest_primary_school,[],0
+nearest_primary_school_YIO CHU KANG PRIMARY SCHOOL,[],0
+nearest_primary_school_YU NENG PRIMARY SCHOOL,[],0
+nearest_primary_school_YUHUA PRIMARY SCHOOL,[],0
+nearest_primary_school_YUMIN PRIMARY SCHOOL,[],0
+nearest_primary_school_ZHENGHUA PRIMARY SCHOOL,[],0
+nearest_primary_school_TECK GHEE PRIMARY SCHOOL,[],0
+nearest_primary_school_TAMPINES PRIMARY SCHOOL,[],0
+block_1,[],0
+nearest_primary_school_TAMPINES NORTH PRIMARY SCHOOL,[],0
+nearest_primary_school_PEIYING PRIMARY SCHOOL,[],0
+nearest_primary_school_PIONEER PRIMARY SCHOOL,[],0
+nearest_primary_school_POI CHING SCHOOL,[],0
+nearest_primary_school_PRINCESS ELIZABETH PRIMARY SCHOOL,[],0
+nearest_primary_school_PUNGGOL COVE PRIMARY SCHOOL,[],0
+town_TOA PAYOH,[],0
+nearest_primary_school_PUNGGOL PRIMARY SCHOOL,[],0
+nearest_primary_school_PUNGGOL VIEW PRIMARY SCHOOL,[],0
+nearest_primary_school_QIHUA PRIMARY SCHOOL,[],0
+town_GEYLANG,[],0
+nearest_primary_school_RED SWASTIKA SCHOOL,[],0
+nearest_primary_school_RIVERVALE PRIMARY SCHOOL,[],0
+nearest_primary_school_ROSYTH SCHOOL,[],0
+month_2023-02,[],0
+nearest_primary_school_SEMBAWANG PRIMARY SCHOOL,[],0
+nearest_primary_school_SENG KANG PRIMARY SCHOOL,[],0
+nearest_primary_school_SENGKANG GREEN PRIMARY SCHOOL,[],0
+nearest_primary_school_SHUQUN PRIMARY SCHOOL,[],0
+nearest_primary_school_SOUTH VIEW PRIMARY SCHOOL,[],0
+nearest_primary_school_SPRINGDALE PRIMARY SCHOOL,[],0
+nearest_primary_school_ST. ANDREW'S JUNIOR SCHOOL,[],0
+nearest_primary_school_ST. ANTHONY'S PRIMARY SCHOOL,[],0
+nearest_primary_school_ST. HILDA'S PRIMARY SCHOOL,[],0
+nearest_primary_school_ST. MARGARET'S PRIMARY SCHOOL,[],0
+nearest_primary_school_STAMFORD PRIMARY SCHOOL,[],0
+nearest_primary_school_EVERGREEN PRIMARY SCHOOL,[],0
+nearest_primary_school_EUNOS PRIMARY SCHOOL,[],0
+nearest_primary_school_ENDEAVOUR PRIMARY SCHOOL,[],0
+nearest_bus_stop_Christ Ch,[],0
+nearest_bus_stop_Ctrl Green Condo,[],0
+nearest_bus_stop_Damai Stn Exit A,[],0
+nearest_bus_stop_Farmway Stn Exit B,[],0
+nearest_bus_stop_Fernvale Stn/Blk 439A,[],0
+nearest_bus_stop_Kangkar Stn Exit B,[],0
+block_13,[],0
+nearest_bus_stop_Millennia Institute,[],0
+nearest_bus_stop_Nibong Stn Exit A,[],0
+nearest_bus_stop_Oasis Stn Exit A,[],0
+nearest_bus_stop_Oasis Stn Exit B/Blk 617D,[],0
+block_129,[],0
+block_128B,[],0
+nearest_bus_stop_Opp Blk 115C,[],0
+nearest_bus_stop_Opp Blk 158,[],0
+block_128,[],0
+nearest_bus_stop_Opp Blk 228B,[],0
+nearest_bus_stop_Opp Blk 272C,[],0
+nearest_bus_stop_Opp Blk 291A,[],0
+nearest_bus_stop_Opp Blk 291E,[],0
+nearest_bus_stop_Opp Blk 296,[],0
+nearest_bus_stop_Opp Blk 471A,[],0
+block_126,[],0
+nearest_bus_stop_Opp Blk 670,[],0
+nearest_bus_stop_Opp Blk 681B,[],0
+nearest_bus_stop_Opp Blk 717,[],0
+nearest_bus_stop_Coral Edge Stn Exit A,[],0
+block_131,[],0
+nearest_bus_stop_Opp Blk 871A,[],0
+nearest_bus_stop_Blk 99,[],0
+nearest_bus_stop_Blk 694C,[],0
+nearest_bus_stop_Blk 7,[],0
+nearest_bus_stop_Blk 701,[],0
+nearest_bus_stop_Blk 70A,[],0
+nearest_bus_stop_Blk 713,[],0
+nearest_bus_stop_Blk 716,[],0
+nearest_bus_stop_Blk 729,[],0
+nearest_bus_stop_Blk 730,[],0
+nearest_bus_stop_Blk 741,[],0
+nearest_bus_stop_Blk 745,[],0
+nearest_bus_stop_Blk 753,[],0
+nearest_school_NORTH VISTA SECONDARY SCHOOL,[],0
+nearest_bus_stop_Blk 79 FC,[],0
+nearest_bus_stop_Blk 790,[],0
+nearest_bus_stop_Blk 8,[],0
+nearest_bus_stop_Blk 803,[],0
+nearest_bus_stop_Blk 810 CP,[],0
+nearest_bus_stop_Blk 840,[],0
+nearest_bus_stop_Blk 867A,[],0
+nearest_bus_stop_Blk 871,[],0
+nearest_bus_stop_Blk 873,[],0
+nearest_bus_stop_Blk 90,[],0
+nearest_bus_stop_Blk 92,[],0
+block_132,[],0
+nearest_bus_stop_Blk 969,[],0
+nearest_bus_stop_Opp Blk 85,[],0
+nearest_bus_stop_Opp Blk 896B,[],0
+nearest_primary_school_ELIAS PARK PRIMARY SCHOOL,[],0
+nearest_primary_school_BEACON PRIMARY SCHOOL,[],0
+nearest_primary_school_BENDEMEER PRIMARY SCHOOL,[],0
+block_118,[],0
+nearest_primary_school_BOON LAY GARDEN PRIMARY SCHOOL,[],0
+block_117,[],0
+block_116,[],0
+nearest_primary_school_CANBERRA PRIMARY SCHOOL,[],0
+nearest_primary_school_CANOSSA CATHOLIC PRIMARY SCHOOL,[],0
+block_115C,[],0
+nearest_primary_school_CASUARINA PRIMARY SCHOOL,[],0
+nearest_primary_school_CHANGKAT PRIMARY SCHOOL,[],0
+nearest_primary_school_CHIJ (KELLOCK),[],0
+nearest_primary_school_CHIJ OUR LADY OF THE NATIVITY,[],0
+nearest_primary_school_CHIJ PRIMARY (TOA PAYOH),[],0
+nearest_primary_school_CHONGFU SCHOOL,[],0
+block_115A,[],0
+nearest_primary_school_CHUA CHU KANG PRIMARY SCHOOL,[],0
+block_115,[],0
+nearest_primary_school_COMPASSVALE PRIMARY SCHOOL,[],0
+nearest_primary_school_CONCORD PRIMARY SCHOOL,[],0
+nearest_primary_school_CORPORATION PRIMARY SCHOOL,[],0
+nearest_primary_school_DAMAI PRIMARY SCHOOL,[],0
+nearest_primary_school_DAZHONG PRIMARY SCHOOL,[],0
+block_114,[],0
+block_113,[],0
+nearest_primary_school_EDGEFIELD PRIMARY SCHOOL,[],0
+block_12,[],0
+nearest_primary_school_ANGSANA PRIMARY SCHOOL,[],0
+block_125,[],0
+nearest_primary_school_ANG MO KIO PRIMARY SCHOOL,[],0
+nearest_bus_stop_Opp Blk 991A,[],0
+nearest_bus_stop_Opp Blks 710/713,[],0
+nearest_bus_stop_Opp Fernvale Stn,[],0
+block_124,[],0
+nearest_bus_stop_Opp Jurong Polyclinic,[],0
+nearest_bus_stop_Opp Jurong Sec Sch,[],0
+nearest_bus_stop_Opp Kallang Stn/Blk 2C,[],0
+nearest_bus_stop_Opp Northbrooks Sec Sch,[],0
+nearest_bus_stop_Opp Petir Stn,[],0
+block_123,[],0
+nearest_bus_stop_Opp The Holy Trinity Ch,[],0
+nearest_bus_stop_Opp The Midtown,[],0
+nearest_bus_stop_Opp W'Lands Mart,[],0
+block_122,[],0
+nearest_bus_stop_Punggol Sec/Blk 601B,[],0
+nearest_bus_stop_Renjong Stn Exit B,[],0
+nearest_bus_stop_Selegie Ctr,[],0
+nearest_bus_stop_Sumang Stn Exit B,[],0
+nearest_bus_stop_Waterway Pr Sch,[],0
+nearest_bus_stop_Woodsvale Condo,[],0
+nearest_primary_school_ADMIRALTY PRIMARY SCHOOL,[],0
+block_121,[],0
+block_120,[],0
+nearest_primary_school_ALEXANDRA PRIMARY SCHOOL,[],0
+nearest_primary_school_ANCHOR GREEN PRIMARY SCHOOL,[],0
+nearest_school_NORTHBROOKS SECONDARY SCHOOL,[],0
+block_225,[],0
+block_211,[],0
+street_name_YISHUN ST 72,[],0
+street_name_YISHUN AVE 4,[],0
+street_name_YISHUN AVE 5,[],0
+street_name_YISHUN AVE 6,[],0
+street_name_BT BATOK WEST AVE 9,[],0
+street_name_BT BATOK WEST AVE 8,[],0
+street_name_YISHUN ST 11,[],0
+street_name_YISHUN ST 21,[],0
+street_name_YISHUN ST 22,[],0
+street_name_BT BATOK WEST AVE 6,[],0
+street_name_YISHUN ST 51,[],0
+street_name_YISHUN ST 61,[],0
+street_name_YISHUN ST 71,[],0
+street_name_BT BATOK ST 52,[],0
+street_name_YISHUN AVE 11,[],0
+street_name_YUNG KUANG RD,[],0
+street_name_BT BATOK ST 31,[],0
+street_name_BT BATOK ST 24,[],0
+street_name_BT BATOK ST 22,[],0
+street_name_BT BATOK ST 21,[],0
+street_name_BT BATOK EAST AVE 6,[],0
+street_name_BT BATOK EAST AVE 5,[],0
+street_name_BT BATOK CTRL,[],0
+street_name_BISHAN ST 12,[],0
+street_name_BENDEMEER RD,[],0
+street_name_BEDOK STH RD,[],0
+flat_model_Adjoined flat,[],0
+street_name_YISHUN AVE 2,[],0
+street_name_WOODLANDS ST 83,[],0
+nearest_school_NORTH VIEW PRIMARY SCHOOL,[],0
+street_name_WOODLANDS CIRCLE,[],0
+street_name_TELOK BLANGAH HTS,[],0
+street_name_CANBERRA ST,[],0
+street_name_TOA PAYOH NTH,[],0
+street_name_CANBERRA RD,[],0
+street_name_CANBERRA CRES,[],0
+street_name_C'WEALTH DR,[],0
+street_name_UPP SERANGOON CRES,[],0
+street_name_UPP SERANGOON RD,[],0
+street_name_UPP SERANGOON VIEW,[],0
+street_name_WHAMPOA DR,[],0
+street_name_WOODLANDS AVE 1,[],0
+street_name_WOODLANDS AVE 6,[],0
+street_name_WOODLANDS CRES,[],0
+street_name_WOODLANDS ST 82,[],0
+street_name_BUANGKOK CRES,[],0
+street_name_WOODLANDS DR 16,[],0
+street_name_WOODLANDS DR 50,[],0
+street_name_WOODLANDS DR 60,[],0
+street_name_WOODLANDS DR 62,[],0
+street_name_WOODLANDS DR 73,[],0
+street_name_WOODLANDS RING RD,[],0
+street_name_WOODLANDS RISE,[],0
+street_name_WOODLANDS ST 13,[],0
+street_name_WOODLANDS ST 32,[],0
+street_name_WOODLANDS ST 41,[],0
+street_name_BT PANJANG RING RD,[],0
+street_name_BEDOK RESERVOIR VIEW,[],0
+street_name_BEDOK RESERVOIR RD,[],0
+street_name_BEDOK RESERVOIR CRES,[],0
+nearest_mrt_Mountbatten,[],0
+nearest_mrt_Kaki Bukit,[],0
+block_997B,[],0
+nearest_mrt_Kembangan,[],0
+nearest_mrt_Khatib,[],0
+block_9,[],0
+block_8,[],0
+block_785D,[],0
+block_770,[],0
+nearest_mrt_MacPherson,[],0
+nearest_mrt_Marsiling,[],0
+nearest_mrt_Marymount,[],0
+block_728,[],0
+block_714,[],0
+flat_model_Model A-Maisonette,[],0
+block_709,[],0
+nearest_mrt_Paya Lebar,[],0
+block_704,[],0
+nearest_mrt_Potong Pasir,[],0
+block_702,[],0
+nearest_mrt_Queenstown,[],0
+nearest_mrt_Redhill,[],0
+nearest_mrt_Rochor,[],0
+block_701,[],0
+block_7,[],0
+nearest_mrt_Serangoon,[],0
+nearest_mrt_Simei,[],0
+nearest_mrt_Jurong East,[],0
+street_name_ADMIRALTY DR,[],0
+nearest_mrt_HarbourFront,[],0
+nearest_mrt_Geylang Bahru,[],0
+street_name_BEDOK NTH ST 2,[],0
+street_name_BEDOK NTH RD,[],0
+street_name_BEDOK NTH AVE 2,[],0
+street_name_BEDOK NTH AVE 1,[],0
+street_name_BALAM RD,[],0
+nearest_mrt_Aljunied,[],0
+street_name_ANG MO KIO ST 32,[],0
+street_name_ANG MO KIO AVE 8,[],0
+street_name_ANG MO KIO AVE 6,[],0
+street_name_ANG MO KIO AVE 4,[],0
+nearest_mrt_Boon Keng,[],0
+street_name_ANG MO KIO AVE 1,[],0
+nearest_mrt_Buangkok,[],0
+nearest_mrt_Bukit Batok,[],0
+nearest_mrt_Bukit Gombak,[],0
+street_name_ANCHORVALE LINK,[],0
+nearest_mrt_Buona Vista,[],0
+street_name_ANCHORVALE CRES,[],0
+nearest_mrt_Cashew,[],0
+nearest_mrt_Chinese Garden,[],0
+nearest_mrt_Choa Chu Kang,[],0
+street_name_ALJUNIED CRES,[],0
+nearest_mrt_Commonwealth,[],0
+nearest_mrt_Eunos,[],0
+nearest_mrt_Farrer Park,[],0
+street_name_TELOK BLANGAH DR,[],0
+street_name_TELOK BLANGAH CRES,[],0
+street_name_TECK WHYE LANE,[],0
+street_name_LOR AH SOO,[],0
+street_name_JURONG WEST ST 61,[],0
+street_name_JURONG WEST ST 64,[],0
+street_name_JURONG WEST ST 65,[],0
+street_name_JURONG WEST ST 73,[],0
+street_name_JURONG WEST ST 91,[],0
+street_name_JURONG WEST ST 93,[],0
+street_name_KEAT HONG CL,[],0
+street_name_KIM TIAN RD,[],0
+street_name_LOR 1 TOA PAYOH,[],0
+street_name_CLEMENTI AVE 2,[],0
+street_name_LOR 5 TOA PAYOH,[],0
+street_name_LOR 8 TOA PAYOH,[],0
+street_name_MARINE CRES,[],0
+street_name_CHOA CHU KANG ST 62,[],0
+street_name_MARINE DR,[],0
+street_name_MARINE TER,[],0
+street_name_MARSILING DR,[],0
+street_name_MARSILING LANE,[],0
+street_name_CLEMENTI AVE 1,[],0
+street_name_MEI LING ST,[],0
+street_name_NEW UPP CHANGI RD,[],0
+street_name_PANDAN GDNS,[],0
+street_name_PASIR RIS DR 1,[],0
+street_name_CIRCUIT RD,[],0
+street_name_PASIR RIS DR 4,[],0
+street_name_PASIR RIS DR 6,[],0
+street_name_JURONG WEST ST 52,[],0
+street_name_JURONG WEST ST 41,[],0
+street_name_CLEMENTI WEST ST 2,[],0
+street_name_COMPASSVALE CRES,[],0
+street_name_FERNVALE LINK,[],0
+street_name_FERNVALE RD,[],0
+street_name_FERNVALE ST,[],0
+street_name_GANGSA RD,[],0
+street_name_GEYLANG BAHRU,[],0
+street_name_EDGEDALE PLAINS,[],0
+street_name_HOUGANG AVE 1,[],0
+street_name_HOUGANG AVE 10,[],0
+street_name_HOUGANG AVE 3,[],0
+street_name_HOUGANG AVE 4,[],0
+street_name_HOUGANG AVE 5,[],0
+street_name_HOUGANG AVE 8,[],0
+street_name_HOUGANG AVE 9,[],0
+street_name_COMPASSVALE WALK,[],0
+street_name_HOUGANG ST 61,[],0
+street_name_HOUGANG ST 91,[],0
+street_name_JELAPANG RD,[],0
+street_name_COMPASSVALE ST,[],0
+street_name_JLN BT MERAH,[],0
+street_name_JLN MEMBINA,[],0
+street_name_COMPASSVALE RD,[],0
+street_name_COMPASSVALE LINK,[],0
+street_name_JLN TENTERAM,[],0
+street_name_COMPASSVALE LANE,[],0
+street_name_COMPASSVALE DR,[],0
+street_name_PASIR RIS ST 11,[],0
+street_name_PASIR RIS ST 21,[],0
+street_name_TECK WHYE AVE,[],0
+street_name_TAMPINES ST 22,[],0
+street_name_SIMS PL,[],0
+street_name_SIN MING AVE,[],0
+street_name_CHOA CHU KANG AVE 2,[],0
+street_name_TAH CHING RD,[],0
+street_name_TAMPINES AVE 4,[],0
+street_name_TAMPINES AVE 5,[],0
+street_name_TAMPINES AVE 8,[],0
+street_name_CHOA CHU KANG AVE 1,[],0
+street_name_TAMPINES CTRL 7,[],0
+street_name_CHAI CHEE RD,[],0
+street_name_CANBERRA WALK,[],0
+street_name_TAMPINES ST 21,[],0
+street_name_TAMPINES ST 23,[],0
+street_name_PASIR RIS ST 51,[],0
+street_name_TAMPINES ST 32,[],0
+street_name_TAMPINES ST 33,[],0
+street_name_TAMPINES ST 34,[],0
+street_name_TAMPINES ST 41,[],0
+street_name_TAMPINES ST 42,[],0
+street_name_TAMPINES ST 45,[],0
+street_name_TAMPINES ST 71,[],0
+street_name_TAMPINES ST 81,[],0
+street_name_TAMPINES ST 83,[],0
+street_name_TAMPINES ST 84,[],0
+street_name_TAMPINES ST 91,[],0
+street_name_TEBAN GDNS RD,[],0
+street_name_SIMEI ST 1,[],0
+street_name_SIMEI RD,[],0
+street_name_SERANGOON NTH AVE 4,[],0
+street_name_SERANGOON NTH AVE 1,[],0
+street_name_PASIR RIS ST 53,[],0
+street_name_CHOA CHU KANG ST 52,[],0
+street_name_CHOA CHU KANG ST 51,[],0
+street_name_PETIR RD,[],0
+street_name_CHOA CHU KANG NTH 6,[],0
+street_name_PUNGGOL DR,[],0
+street_name_PUNGGOL EAST,[],0
+street_name_CHOA CHU KANG CRES,[],0
+street_name_PUNGGOL RD,[],0
+street_name_PUNGGOL WALK,[],0
+street_name_PUNGGOL WAY,[],0
+street_name_CHOA CHU KANG AVE 7,[],0
+street_name_RIVERVALE CRES,[],0
+street_name_CHOA CHU KANG AVE 5,[],0
+street_name_RIVERVALE ST,[],0
+street_name_RIVERVALE WALK,[],0
+street_name_SEGAR RD,[],0
+street_name_SELEGIE RD,[],0
+street_name_SEMBAWANG CL,[],0
+street_name_SEMBAWANG DR,[],0
+street_name_SENGKANG CTRL,[],0
+street_name_SENGKANG WEST WAY,[],0
+street_name_SENJA RD,[],0
+street_name_CHOA CHU KANG AVE 4,[],0
+street_name_SERANGOON AVE 4,[],0
+block_694C,[],0
+block_694B,[],0
+nearest_mrt_Tanah Merah,[],0
+nearest_school_ELIAS PARK PRIMARY SCHOOL,[],0
+nearest_school_CORPORATION PRIMARY SCHOOL,[],0
+nearest_school_CREST SECONDARY SCHOOL,[],0
+nearest_school_DAMAI PRIMARY SCHOOL,[],0
+nearest_school_DAMAI SECONDARY SCHOOL,[],0
+nearest_school_DAZHONG PRIMARY SCHOOL,[],0
+nearest_school_DE LA SALLE SCHOOL,[],0
+nearest_school_DEYI SECONDARY SCHOOL,[],0
+nearest_school_DUNMAN SECONDARY SCHOOL,[],0
+nearest_school_EAST SPRING PRIMARY SCHOOL,[],0
+block_263,[],0
+nearest_school_EDGEFIELD PRIMARY SCHOOL,[],0
+nearest_school_EDGEFIELD SECONDARY SCHOOL,[],0
+nearest_school_ENDEAVOUR PRIMARY SCHOOL,[],0
+block_244,[],0
+block_253,[],0
+nearest_school_EVERGREEN PRIMARY SCHOOL,[],0
+nearest_school_EVERGREEN SECONDARY SCHOOL,[],0
+nearest_school_FAJAR SECONDARY SCHOOL,[],0
+nearest_school_FARRER PARK PRIMARY SCHOOL,[],0
+nearest_school_FENGSHAN PRIMARY SCHOOL,[],0
+nearest_school_FERN GREEN PRIMARY SCHOOL,[],0
+nearest_school_FERNVALE PRIMARY SCHOOL,[],0
+nearest_school_FIRST TOA PAYOH PRIMARY SCHOOL,[],0
+nearest_school_FRONTIER PRIMARY SCHOOL,[],0
+nearest_school_FUCHUN PRIMARY SCHOOL,[],0
+nearest_school_FUCHUN SECONDARY SCHOOL,[],0
+nearest_school_CONCORD PRIMARY SCHOOL,[],0
+nearest_school_COMPASSVALE SECONDARY SCHOOL,[],0
+nearest_school_COMPASSVALE PRIMARY SCHOOL,[],0
+block_271,[],0
+nearest_school_BOON LAY SECONDARY SCHOOL,[],0
+nearest_school_BOWEN SECONDARY SCHOOL,[],0
+block_3,[],0
+block_293D,[],0
+nearest_school_BUKIT PANJANG GOVT. HIGH SCHOOL,[],0
+nearest_school_BUKIT PANJANG PRIMARY SCHOOL,[],0
+nearest_school_BUKIT VIEW PRIMARY SCHOOL,[],0
+nearest_school_BUKIT VIEW SECONDARY SCHOOL,[],0
+nearest_school_CANBERRA PRIMARY SCHOOL,[],0
+block_293C,[],0
+block_293A,[],0
+block_29,[],0
+block_28,[],0
+nearest_school_CHANGKAT CHANGI SECONDARY SCHOOL,[],0
+nearest_school_CHANGKAT PRIMARY SCHOOL,[],0
+nearest_school_CHIJ (KELLOCK),[],0
+nearest_school_CHIJ SECONDARY (TOA PAYOH),[],0
+nearest_school_CHIJ ST. JOSEPH'S CONVENT,[],0
+nearest_school_CHIJ ST. THERESA'S CONVENT,[],0
+nearest_school_CHONGFU SCHOOL,[],0
+nearest_school_CHONGZHENG PRIMARY SCHOOL,[],0
+nearest_school_CHUA CHU KANG PRIMARY SCHOOL,[],0
+nearest_school_CHUA CHU KANG SECONDARY SCHOOL,[],0
+block_272,[],0
+nearest_school_CLEMENTI PRIMARY SCHOOL,[],0
+block_252,[],0
+nearest_school_GAN ENG SENG SCHOOL,[],0
+nearest_school_BENDEMEER SECONDARY SCHOOL,[],0
+nearest_school_MERIDIAN SECONDARY SCHOOL,[],0
+block_234,[],0
+nearest_school_KRANJI PRIMARY SCHOOL,[],0
+block_231,[],0
+block_230,[],0
+nearest_school_LAKESIDE PRIMARY SCHOOL,[],0
+nearest_school_LOYANG VIEW SECONDARY SCHOOL,[],0
+nearest_school_MANJUSRI SECONDARY SCHOOL,[],0
+nearest_school_MARSILING PRIMARY SCHOOL,[],0
+nearest_school_MARSILING SECONDARY SCHOOL,[],0
+nearest_school_MAYFLOWER PRIMARY SCHOOL,[],0
+nearest_school_MEE TOH SCHOOL,[],0
+nearest_school_MERIDIAN PRIMARY SCHOOL,[],0
+nearest_school_MILLENNIA INSTITUTE,[],0
+nearest_school_GEYLANG METHODIST SCHOOL (PRIMARY),[],0
+nearest_school_MONTFORT JUNIOR SCHOOL,[],0
+nearest_school_MONTFORT SECONDARY SCHOOL,[],0
+street_name_FAJAR RD,[],0
+block_22,[],0
+nearest_school_NAN HUA PRIMARY SCHOOL,[],0
+nearest_school_NANYANG JUNIOR COLLEGE,[],0
+nearest_school_NAVAL BASE PRIMARY SCHOOL,[],0
+nearest_school_NAVAL BASE SECONDARY SCHOOL,[],0
+nearest_school_NEW TOWN PRIMARY SCHOOL,[],0
+nearest_school_NGEE ANN PRIMARY SCHOOL,[],0
+nearest_school_NGEE ANN SECONDARY SCHOOL,[],0
+nearest_school_NORTH SPRING PRIMARY SCHOOL,[],0
+nearest_school_KENT RIDGE SECONDARY SCHOOL,[],0
+block_236,[],0
+nearest_school_JUYING PRIMARY SCHOOL,[],0
+nearest_school_JURONG WEST SECONDARY SCHOOL,[],0
+nearest_school_GEYLANG METHODIST SCHOOL (SECONDARY),[],0
+nearest_school_GONGSHANG PRIMARY SCHOOL,[],0
+nearest_school_GREENDALE PRIMARY SCHOOL,[],0
+nearest_school_GREENRIDGE PRIMARY SCHOOL,[],0
+nearest_school_GREENRIDGE SECONDARY SCHOOL,[],0
+nearest_school_GREENWOOD PRIMARY SCHOOL,[],0
+nearest_school_GUANGYANG PRIMARY SCHOOL,[],0
+nearest_school_HENRY PARK PRIMARY SCHOOL,[],0
+nearest_school_HILLGROVE SECONDARY SCHOOL,[],0
+nearest_school_HOLY INNOCENTS' HIGH SCHOOL,[],0
+nearest_school_HOLY INNOCENTS' PRIMARY SCHOOL,[],0
+nearest_school_HONG WEN SCHOOL,[],0
+nearest_school_HORIZON PRIMARY SCHOOL,[],0
+block_24,[],0
+nearest_school_HOUGANG SECONDARY SCHOOL,[],0
+nearest_school_HUA YI SECONDARY SCHOOL,[],0
+nearest_school_HUAMIN PRIMARY SCHOOL,[],0
+nearest_school_INNOVA PRIMARY SCHOOL,[],0
+nearest_school_JIEMIN PRIMARY SCHOOL,[],0
+nearest_school_JING SHAN PRIMARY SCHOOL,[],0
+nearest_school_JUNYUAN PRIMARY SCHOOL,[],0
+nearest_school_JUNYUAN SECONDARY SCHOOL,[],0
+nearest_school_JURONG PRIMARY SCHOOL,[],0
+nearest_school_JURONG SECONDARY SCHOOL,[],0
+nearest_school_JURONG WEST PRIMARY SCHOOL,[],0
+block_30,[],0
+nearest_school_BENDEMEER PRIMARY SCHOOL,[],0
+block_693A,[],0
+nearest_mall_Jem,[],0
+nearest_mall_Greenridge Shopping Centre,[],0
+block_536,[],0
+nearest_mall_Heartland Mall,[],0
+nearest_mall_HillV2,[],0
+block_533,[],0
+nearest_mall_Holland Village Shopping Mall,[],0
+nearest_mall_Hougang 1,[],0
+nearest_mall_Hougang Green Shopping Mall,[],0
+nearest_mall_Hougang Mall,[],0
+nearest_mall_Hougang Rivercourt,[],0
+block_52,[],0
+block_517,[],0
+nearest_mall_Jubilee Square,[],0
+nearest_mall_Northshore Plaza,[],0
+block_512,[],0
+block_511,[],0
+nearest_mall_Junction Nine,[],0
+block_509,[],0
+nearest_mall_KINEX (formerly OneKM),[],0
+block_503,[],0
+nearest_mall_Leisure Park Kallang,[],0
+block_5,[],0
+nearest_mall_Lot One,[],0
+block_484,[],0
+nearest_mall_Mustafa Shopping Centre,[],0
+block_467,[],0
+block_540,[],0
+block_541,[],0
+block_545,[],0
+nearest_mall_Eastpoint Mall,[],0
+block_684B,[],0
+block_677A,[],0
+block_676A,[],0
+nearest_mrt_Upper Changi,[],0
+block_674A,[],0
+nearest_mrt_Yew Tee,[],0
+nearest_mrt_Yio Chu Kang,[],0
+block_673B,[],0
+nearest_mall_321 Clementi,[],0
+nearest_mall_AMK Hub,[],0
+nearest_mall_Admiralty Place,[],0
+nearest_mall_Alexandra Central,[],0
+block_660,[],0
+block_659C,[],0
+nearest_mall_Aperia,[],0
+block_659B,[],0
+block_643,[],0
+nearest_mall_Broadway Plaza,[],0
+block_629,[],0
+block_626,[],0
+block_590B,[],0
+nearest_mall_Century Square,[],0
+block_574B,[],0
+block_552,[],0
+nearest_mall_Downtown East,[],0
+block_46,[],0
+block_459,[],0
+nearest_school_BEDOK VIEW SECONDARY SCHOOL,[],0
+nearest_school_AHMAD IBRAHIM SECONDARY SCHOOL,[],0
+block_328,[],0
+nearest_mall_Woodlands Civic Centre,[],0
+block_327,[],0
+nearest_mall_Woodlands North Plaza,[],0
+nearest_mall_Yew Tee Point,[],0
+block_326,[],0
+nearest_mall_e,[],0
+block_322,[],0
+block_32,[],0
+nearest_school_ADMIRALTY PRIMARY SCHOOL,[],0
+nearest_school_ADMIRALTY SECONDARY SCHOOL,[],0
+nearest_school_AHMAD IBRAHIM PRIMARY SCHOOL,[],0
+nearest_school_AI TONG SCHOOL,[],0
+block_457,[],0
+nearest_school_ALEXANDRA PRIMARY SCHOOL,[],0
+block_319,[],0
+block_312,[],0
+nearest_school_ANG MO KIO SECONDARY SCHOOL,[],0
+nearest_school_ANGLICAN HIGH SCHOOL,[],0
+block_31,[],0
+block_306,[],0
+block_302C,[],0
+nearest_school_BEACON PRIMARY SCHOOL,[],0
+nearest_school_BEATTY SECONDARY SCHOOL,[],0
+nearest_school_BEDOK GREEN PRIMARY SCHOOL,[],0
+nearest_school_BEDOK GREEN SECONDARY SCHOOL,[],0
+block_331,[],0
+nearest_mall_Westgate,[],0
+block_34,[],0
+block_349,[],0
+block_446A,[],0
+block_446,[],0
+block_44,[],0
+nearest_mall_Queensway Shopping Centre,[],0
+block_428,[],0
+block_425,[],0
+nearest_mall_Rochester Mall,[],0
+nearest_mall_Sembawang Shopping Centre,[],0
+nearest_mall_Sim Lim Square,[],0
+block_424,[],0
+nearest_mall_Sunshine Place,[],0
+block_419,[],0
+block_417A,[],0
+block_417,[],0
+block_415,[],0
+block_411,[],0
+block_403,[],0
+nearest_mall_The Seletar Mall,[],0
+block_40,[],0
+block_4,[],0
+block_36,[],0
+block_359C,[],0
+nearest_mall_Upper Serangoon Shopping Centre,[],0
+nearest_mall_Velocity@Novena Square,[],0
+nearest_mall_Vista Point,[],0
+nearest_primary_school_ZHONGHUA PRIMARY SCHOOL,[],0

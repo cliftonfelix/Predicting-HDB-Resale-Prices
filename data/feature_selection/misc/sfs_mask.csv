@@ -1,0 +1,1269 @@
+column_name,sfs_mask
+floor_area_sqm,True
+remaining_lease,True
+nearest_mrt_dist,True
+nearest_mall_dist,True
+nearest_school_dist,False
+nearest_bus_stop_dist,False
+nearest_primary_school_dist,False
+within_1_km_to_nearest_primary_school,False
+total_nearby_mrt,True
+total_nearby_mall,False
+total_nearby_school,False
+total_nearby_primary_school,False
+total_nearby_bus_stop,False
+total_resales_in_town,True
+total_resales_in_block,False
+total_resales_in_street,False
+month_2023-01,False
+month_2023-02,False
+town_ANG MO KIO,False
+town_BEDOK,False
+town_BISHAN,False
+town_BUKIT BATOK,True
+town_BUKIT MERAH,True
+town_BUKIT PANJANG,True
+town_CENTRAL AREA,True
+town_CHOA CHU KANG,True
+town_CLEMENTI,False
+town_GEYLANG,False
+town_HOUGANG,True
+town_JURONG EAST,True
+town_JURONG WEST,True
+town_KALLANG/WHAMPOA,False
+town_MARINE PARADE,True
+town_PASIR RIS,True
+town_PUNGGOL,False
+town_QUEENSTOWN,False
+town_SEMBAWANG,True
+town_SENGKANG,True
+town_SERANGOON,True
+town_TAMPINES,False
+town_TOA PAYOH,False
+town_WOODLANDS,False
+town_YISHUN,False
+flat_type_2 ROOM,False
+flat_type_3 ROOM,False
+flat_type_4 ROOM,False
+flat_type_5 ROOM,False
+flat_type_EXECUTIVE,False
+block_1,False
+block_101,False
+block_102,False
+block_103,False
+block_104,False
+block_104A,False
+block_105,False
+block_107,False
+block_108,False
+block_108C,False
+block_109,False
+block_11,False
+block_110,False
+block_111,False
+block_112,False
+block_113,False
+block_114,False
+block_115,False
+block_115A,False
+block_115C,False
+block_116,False
+block_117,False
+block_118,False
+block_12,False
+block_120,False
+block_121,False
+block_122,False
+block_123,False
+block_124,False
+block_125,False
+block_126,False
+block_128,False
+block_128B,False
+block_129,False
+block_13,False
+block_131,False
+block_132,False
+block_139,False
+block_14,False
+block_142,False
+block_143,False
+block_149,False
+block_151,False
+block_152,False
+block_154,False
+block_155,False
+block_157,False
+block_158,False
+block_16,False
+block_163,False
+block_165,False
+block_166B,False
+block_168A,False
+block_18,False
+block_180B,False
+block_181,False
+block_187,False
+block_2,True
+block_20,False
+block_202,False
+block_206,False
+block_207,False
+block_209,False
+block_21,False
+block_211,False
+block_22,False
+block_225,False
+block_23,False
+block_230,False
+block_231,False
+block_234,False
+block_236,False
+block_24,False
+block_244,False
+block_252,False
+block_253,False
+block_263,False
+block_271,False
+block_272,False
+block_28,False
+block_29,False
+block_293A,False
+block_293C,False
+block_293D,False
+block_3,False
+block_30,False
+block_302C,False
+block_306,False
+block_31,False
+block_312,False
+block_319,False
+block_32,False
+block_322,False
+block_326,False
+block_327,False
+block_328,False
+block_331,False
+block_34,False
+block_345,False
+block_349,False
+block_359C,False
+block_36,False
+block_4,False
+block_40,False
+block_403,False
+block_411,False
+block_415,False
+block_417,False
+block_417A,False
+block_419,False
+block_424,False
+block_425,False
+block_428,False
+block_43,False
+block_44,False
+block_446,False
+block_446A,False
+block_457,False
+block_459,False
+block_46,False
+block_467,False
+block_484,False
+block_5,False
+block_503,False
+block_509,False
+block_511,False
+block_512,False
+block_517,False
+block_52,False
+block_533,False
+block_536,False
+block_540,False
+block_541,False
+block_545,False
+block_552,False
+block_574B,False
+block_590B,False
+block_626,False
+block_629,False
+block_643,False
+block_659B,False
+block_659C,False
+block_660,False
+block_673B,False
+block_674A,False
+block_676A,False
+block_677A,False
+block_684B,False
+block_693A,False
+block_694B,False
+block_694C,False
+block_7,False
+block_701,False
+block_702,False
+block_704,False
+block_709,False
+block_714,False
+block_728,False
+block_770,False
+block_785D,False
+block_8,False
+block_9,False
+block_93B,False
+block_997B,False
+street_name_ADMIRALTY DR,False
+street_name_ADMIRALTY LINK,False
+street_name_ALJUNIED CRES,False
+street_name_ANCHORVALE CRES,False
+street_name_ANCHORVALE LINK,False
+street_name_ANCHORVALE RD,False
+street_name_ANG MO KIO AVE 1,False
+street_name_ANG MO KIO AVE 10,False
+street_name_ANG MO KIO AVE 3,False
+street_name_ANG MO KIO AVE 4,False
+street_name_ANG MO KIO AVE 5,False
+street_name_ANG MO KIO AVE 6,False
+street_name_ANG MO KIO AVE 8,False
+street_name_ANG MO KIO ST 32,False
+street_name_ANG MO KIO ST 44,False
+street_name_ANG MO KIO ST 51,True
+street_name_ANG MO KIO ST 52,False
+street_name_BALAM RD,False
+street_name_BANGKIT RD,True
+street_name_BEDOK NTH AVE 1,False
+street_name_BEDOK NTH AVE 2,False
+street_name_BEDOK NTH RD,False
+street_name_BEDOK NTH ST 2,False
+street_name_BEDOK NTH ST 3,False
+street_name_BEDOK RESERVOIR CRES,False
+street_name_BEDOK RESERVOIR RD,False
+street_name_BEDOK RESERVOIR VIEW,False
+street_name_BEDOK STH AVE 2,False
+street_name_BEDOK STH RD,False
+street_name_BENDEMEER RD,False
+street_name_BISHAN ST 12,False
+street_name_BISHAN ST 13,False
+street_name_BISHAN ST 24,False
+street_name_BOON LAY AVE,False
+street_name_BOON LAY DR,True
+street_name_BOON LAY PL,False
+street_name_BOON TIONG RD,False
+street_name_BT BATOK CTRL,False
+street_name_BT BATOK EAST AVE 5,False
+street_name_BT BATOK EAST AVE 6,False
+street_name_BT BATOK ST 21,False
+street_name_BT BATOK ST 22,False
+street_name_BT BATOK ST 24,False
+street_name_BT BATOK ST 31,False
+street_name_BT BATOK ST 52,False
+street_name_BT BATOK WEST AVE 5,False
+street_name_BT BATOK WEST AVE 6,False
+street_name_BT BATOK WEST AVE 8,False
+street_name_BT BATOK WEST AVE 9,False
+street_name_BT PANJANG RING RD,False
+street_name_BUANGKOK CRES,False
+street_name_C'WEALTH DR,False
+street_name_CANBERRA CRES,False
+street_name_CANBERRA RD,False
+street_name_CANBERRA ST,False
+street_name_CANBERRA WALK,False
+street_name_CANTONMENT RD,True
+street_name_CHAI CHEE RD,False
+street_name_CHOA CHU KANG AVE 1,False
+street_name_CHOA CHU KANG AVE 2,False
+street_name_CHOA CHU KANG AVE 3,False
+street_name_CHOA CHU KANG AVE 4,False
+street_name_CHOA CHU KANG AVE 5,False
+street_name_CHOA CHU KANG AVE 7,False
+street_name_CHOA CHU KANG CRES,False
+street_name_CHOA CHU KANG CTRL,False
+street_name_CHOA CHU KANG NTH 6,False
+street_name_CHOA CHU KANG ST 51,False
+street_name_CHOA CHU KANG ST 52,False
+street_name_CHOA CHU KANG ST 62,False
+street_name_CIRCUIT RD,False
+street_name_CLEMENTI AVE 1,False
+street_name_CLEMENTI AVE 2,False
+street_name_CLEMENTI AVE 3,False
+street_name_CLEMENTI AVE 4,False
+street_name_CLEMENTI AVE 5,False
+street_name_CLEMENTI AVE 6,False
+street_name_CLEMENTI WEST ST 2,False
+street_name_COMPASSVALE CRES,False
+street_name_COMPASSVALE DR,False
+street_name_COMPASSVALE LANE,False
+street_name_COMPASSVALE LINK,False
+street_name_COMPASSVALE RD,False
+street_name_COMPASSVALE ST,False
+street_name_COMPASSVALE WALK,False
+street_name_DAWSON RD,True
+street_name_DOVER CRES,False
+street_name_EDGEDALE PLAINS,False
+street_name_EDGEFIELD PLAINS,False
+street_name_EUNOS CRES,False
+street_name_FAJAR RD,False
+street_name_FERNVALE LINK,False
+street_name_FERNVALE RD,False
+street_name_FERNVALE ST,False
+street_name_GANGSA RD,False
+street_name_GEYLANG BAHRU,False
+street_name_GHIM MOH LINK,False
+street_name_HOLLAND DR,True
+street_name_HOUGANG AVE 1,False
+street_name_HOUGANG AVE 10,False
+street_name_HOUGANG AVE 3,False
+street_name_HOUGANG AVE 4,False
+street_name_HOUGANG AVE 5,False
+street_name_HOUGANG AVE 8,False
+street_name_HOUGANG AVE 9,False
+street_name_HOUGANG ST 51,True
+street_name_HOUGANG ST 61,False
+street_name_HOUGANG ST 91,False
+street_name_JELAPANG RD,False
+street_name_JLN BAHAGIA,True
+street_name_JLN BT MERAH,False
+street_name_JLN MEMBINA,False
+street_name_JLN TECK WHYE,False
+street_name_JLN TENAGA,False
+street_name_JLN TENTERAM,False
+street_name_JURONG EAST AVE 1,False
+street_name_JURONG EAST ST 21,False
+street_name_JURONG EAST ST 24,False
+street_name_JURONG EAST ST 32,False
+street_name_JURONG WEST CTRL 1,False
+street_name_JURONG WEST ST 41,False
+street_name_JURONG WEST ST 42,True
+street_name_JURONG WEST ST 52,False
+street_name_JURONG WEST ST 61,False
+street_name_JURONG WEST ST 64,False
+street_name_JURONG WEST ST 65,False
+street_name_JURONG WEST ST 73,False
+street_name_JURONG WEST ST 81,False
+street_name_JURONG WEST ST 91,False
+street_name_JURONG WEST ST 93,False
+street_name_KEAT HONG CL,False
+street_name_KIM TIAN RD,False
+street_name_LOR 1 TOA PAYOH,False
+street_name_LOR 2 TOA PAYOH,False
+street_name_LOR 5 TOA PAYOH,False
+street_name_LOR 8 TOA PAYOH,False
+street_name_LOR AH SOO,False
+street_name_MARINE CRES,False
+street_name_MARINE DR,False
+street_name_MARINE TER,False
+street_name_MARSILING DR,False
+street_name_MARSILING LANE,False
+street_name_MCNAIR RD,False
+street_name_MEI LING ST,False
+street_name_NEW UPP CHANGI RD,False
+street_name_PANDAN GDNS,False
+street_name_PASIR RIS DR 1,False
+street_name_PASIR RIS DR 10,False
+street_name_PASIR RIS DR 4,False
+street_name_PASIR RIS DR 6,False
+street_name_PASIR RIS ST 11,False
+street_name_PASIR RIS ST 12,False
+street_name_PASIR RIS ST 21,False
+street_name_PASIR RIS ST 51,False
+street_name_PASIR RIS ST 53,False
+street_name_PASIR RIS ST 71,False
+street_name_PENDING RD,False
+street_name_PETIR RD,False
+street_name_PUNGGOL CTRL,False
+street_name_PUNGGOL DR,False
+street_name_PUNGGOL EAST,False
+street_name_PUNGGOL FIELD,False
+street_name_PUNGGOL PL,False
+street_name_PUNGGOL RD,False
+street_name_PUNGGOL WALK,False
+street_name_PUNGGOL WAY,False
+street_name_REDHILL RD,False
+street_name_RIVERVALE CRES,False
+street_name_RIVERVALE DR,False
+street_name_RIVERVALE ST,False
+street_name_RIVERVALE WALK,False
+street_name_SEGAR RD,False
+street_name_SELEGIE RD,False
+street_name_SEMBAWANG CL,False
+street_name_SEMBAWANG DR,False
+street_name_SENGKANG CTRL,False
+street_name_SENGKANG WEST WAY,False
+street_name_SENJA RD,False
+street_name_SERANGOON AVE 2,False
+street_name_SERANGOON AVE 4,False
+street_name_SERANGOON NTH AVE 1,False
+street_name_SERANGOON NTH AVE 4,False
+street_name_SIMEI RD,False
+street_name_SIMEI ST 1,False
+street_name_SIMS PL,False
+street_name_SIN MING AVE,False
+street_name_SUMANG LANE,True
+street_name_SUMANG WALK,True
+street_name_TAH CHING RD,False
+street_name_TAMPINES AVE 4,False
+street_name_TAMPINES AVE 5,False
+street_name_TAMPINES AVE 8,False
+street_name_TAMPINES AVE 9,True
+street_name_TAMPINES CTRL 7,False
+street_name_TAMPINES ST 11,False
+street_name_TAMPINES ST 12,False
+street_name_TAMPINES ST 21,False
+street_name_TAMPINES ST 22,False
+street_name_TAMPINES ST 23,False
+street_name_TAMPINES ST 32,False
+street_name_TAMPINES ST 33,False
+street_name_TAMPINES ST 34,False
+street_name_TAMPINES ST 41,False
+street_name_TAMPINES ST 42,False
+street_name_TAMPINES ST 45,False
+street_name_TAMPINES ST 71,False
+street_name_TAMPINES ST 81,False
+street_name_TAMPINES ST 83,False
+street_name_TAMPINES ST 84,False
+street_name_TAMPINES ST 91,False
+street_name_TEBAN GDNS RD,False
+street_name_TECK WHYE AVE,False
+street_name_TECK WHYE LANE,False
+street_name_TELOK BLANGAH CRES,False
+street_name_TELOK BLANGAH DR,False
+street_name_TELOK BLANGAH HTS,False
+street_name_TELOK BLANGAH ST 31,False
+street_name_TOA PAYOH NTH,False
+street_name_TOH GUAN RD,False
+street_name_UBI AVE 1,False
+street_name_UPP BOON KENG RD,False
+street_name_UPP SERANGOON CRES,False
+street_name_UPP SERANGOON RD,False
+street_name_UPP SERANGOON VIEW,False
+street_name_WHAMPOA DR,False
+street_name_WOODLANDS AVE 1,False
+street_name_WOODLANDS AVE 6,False
+street_name_WOODLANDS CIRCLE,False
+street_name_WOODLANDS CRES,False
+street_name_WOODLANDS DR 14,False
+street_name_WOODLANDS DR 16,False
+street_name_WOODLANDS DR 50,False
+street_name_WOODLANDS DR 60,False
+street_name_WOODLANDS DR 62,False
+street_name_WOODLANDS DR 73,False
+street_name_WOODLANDS RING RD,False
+street_name_WOODLANDS RISE,False
+street_name_WOODLANDS ST 13,False
+street_name_WOODLANDS ST 32,False
+street_name_WOODLANDS ST 41,False
+street_name_WOODLANDS ST 81,False
+street_name_WOODLANDS ST 82,False
+street_name_WOODLANDS ST 83,False
+street_name_YISHUN AVE 11,False
+street_name_YISHUN AVE 2,False
+street_name_YISHUN AVE 4,False
+street_name_YISHUN AVE 5,False
+street_name_YISHUN AVE 6,False
+street_name_YISHUN AVE 9,True
+street_name_YISHUN RING RD,False
+street_name_YISHUN ST 11,False
+street_name_YISHUN ST 21,False
+street_name_YISHUN ST 22,False
+street_name_YISHUN ST 31,True
+street_name_YISHUN ST 51,False
+street_name_YISHUN ST 61,False
+street_name_YISHUN ST 71,False
+street_name_YISHUN ST 72,False
+street_name_YISHUN ST 81,True
+street_name_YUAN CHING RD,True
+street_name_YUNG KUANG RD,False
+storey_range_01 TO 03,True
+storey_range_04 TO 06,True
+storey_range_07 TO 09,True
+storey_range_10 TO 12,True
+storey_range_13 TO 15,True
+storey_range_16 TO 18,True
+storey_range_19 TO 21,True
+storey_range_22 TO 24,False
+storey_range_25 TO 27,False
+storey_range_28 TO 30,False
+storey_range_31 TO 33,False
+storey_range_34 TO 36,False
+storey_range_37 TO 39,False
+flat_model_2-room,False
+flat_model_Adjoined flat,False
+flat_model_Apartment,True
+flat_model_DBSS,True
+flat_model_Improved,True
+flat_model_Maisonette,True
+flat_model_Model A,True
+flat_model_Model A-Maisonette,False
+flat_model_Model A2,False
+flat_model_New Generation,False
+flat_model_Premium Apartment,True
+flat_model_Simplified,True
+flat_model_Standard,False
+flat_model_Type S1,True
+nearest_mrt_Admiralty,True
+nearest_mrt_Aljunied,False
+nearest_mrt_Ang Mo Kio,False
+nearest_mrt_Bedok North,True
+nearest_mrt_Bedok Reservoir,False
+nearest_mrt_Bendemeer,False
+nearest_mrt_Bishan,False
+nearest_mrt_Boon Keng,False
+nearest_mrt_Boon Lay,False
+nearest_mrt_Braddell,True
+nearest_mrt_Buangkok,False
+nearest_mrt_Bukit Batok,False
+nearest_mrt_Bukit Gombak,False
+nearest_mrt_Bukit Panjang,False
+nearest_mrt_Buona Vista,False
+nearest_mrt_Caldecott,False
+nearest_mrt_Cashew,False
+nearest_mrt_Chinese Garden,False
+nearest_mrt_Choa Chu Kang,False
+nearest_mrt_Clementi,True
+nearest_mrt_Commonwealth,False
+nearest_mrt_Dover,False
+nearest_mrt_Eunos,False
+nearest_mrt_Farrer Park,False
+nearest_mrt_Geylang Bahru,False
+nearest_mrt_HarbourFront,False
+nearest_mrt_Hougang,False
+nearest_mrt_Jurong East,False
+nearest_mrt_Kaki Bukit,False
+nearest_mrt_Kallang,False
+nearest_mrt_Kembangan,False
+nearest_mrt_Khatib,False
+nearest_mrt_Kovan,False
+nearest_mrt_Labrador Park,False
+nearest_mrt_Lakeside,False
+nearest_mrt_Lavender,False
+nearest_mrt_Lorong Chuan,False
+nearest_mrt_MacPherson,False
+nearest_mrt_Marsiling,False
+nearest_mrt_Marymount,False
+nearest_mrt_Mattar,False
+nearest_mrt_Mountbatten,False
+nearest_mrt_Outram Park,False
+nearest_mrt_Pasir Ris,False
+nearest_mrt_Paya Lebar,False
+nearest_mrt_Pioneer,True
+nearest_mrt_Potong Pasir,False
+nearest_mrt_Punggol,False
+nearest_mrt_Queenstown,False
+nearest_mrt_Redhill,False
+nearest_mrt_Rochor,False
+nearest_mrt_Sembawang,False
+nearest_mrt_Sengkang,False
+nearest_mrt_Serangoon,False
+nearest_mrt_Simei,False
+nearest_mrt_Tampines,False
+nearest_mrt_Tampines East,True
+nearest_mrt_Tanah Merah,False
+nearest_mrt_Telok Blangah,False
+nearest_mrt_Tiong Bahru,False
+nearest_mrt_Toa Payoh,False
+nearest_mrt_Ubi,False
+nearest_mrt_Upper Changi,False
+nearest_mrt_Woodlands,True
+nearest_mrt_Yew Tee,False
+nearest_mrt_Yio Chu Kang,False
+nearest_mrt_Yishun,False
+nearest_mall_321 Clementi,False
+nearest_mall_AMK Hub,False
+nearest_mall_Admiralty Place,False
+nearest_mall_Alexandra Central,False
+nearest_mall_Alexandra Retail Centre,False
+nearest_mall_Anchorpoint,False
+nearest_mall_Aperia,False
+nearest_mall_Bedok Mall,False
+nearest_mall_Boon Lay Shopping Centre,True
+nearest_mall_Broadway Plaza,False
+nearest_mall_Buangkok Square,True
+nearest_mall_Bukit Panjang Plaza,True
+nearest_mall_Canberra Plaza,False
+nearest_mall_Century Square,False
+nearest_mall_City Square Mall,False
+nearest_mall_Compass One,False
+nearest_mall_Downtown East,False
+nearest_mall_Eastpoint Mall,False
+nearest_mall_Fajar Shopping Centre,False
+nearest_mall_Gek Poh Shopping Centre,False
+nearest_mall_Grantral Mall,False
+nearest_mall_Greenridge Shopping Centre,False
+nearest_mall_HDB Hub,False
+nearest_mall_Heartland Mall,False
+nearest_mall_HillV2,False
+nearest_mall_Hillion Mall,True
+nearest_mall_Holland Village Shopping Mall,False
+nearest_mall_Hougang 1,False
+nearest_mall_Hougang Green Shopping Mall,False
+nearest_mall_Hougang Mall,False
+nearest_mall_Hougang Rivercourt,False
+nearest_mall_IMM,False
+nearest_mall_JCube,False
+nearest_mall_Jem,False
+nearest_mall_Jubilee Square,False
+nearest_mall_Junction 10,False
+nearest_mall_Junction 8,False
+nearest_mall_Junction Nine,False
+nearest_mall_Jurong Point,False
+nearest_mall_KINEX (formerly OneKM),False
+nearest_mall_Keat Hong Shopping Centre,False
+nearest_mall_Leisure Park Kallang,False
+nearest_mall_Limbang Shopping Centre,False
+nearest_mall_Lot One,False
+nearest_mall_Marsiling Mall,False
+nearest_mall_Mustafa Shopping Centre,False
+nearest_mall_NEX,False
+nearest_mall_Northpoint City,False
+nearest_mall_Northshore Plaza,False
+nearest_mall_Oasis Terraces,True
+nearest_mall_Our Tampines Hub,False
+nearest_mall_Parkway Parade,False
+nearest_mall_Paya Lebar Square,True
+nearest_mall_Pioneer Mall,False
+nearest_mall_Punggol Plaza,True
+nearest_mall_Queensway Shopping Centre,False
+nearest_mall_Rivervale Mall,True
+nearest_mall_Rivervale Plaza,False
+nearest_mall_Rochester Mall,False
+nearest_mall_Sembawang Shopping Centre,False
+nearest_mall_Sim Lim Square,False
+nearest_mall_Sun Plaza,True
+nearest_mall_Sunshine Place,False
+nearest_mall_Taman Jurong Shopping Centre,False
+nearest_mall_Tampines 1,False
+nearest_mall_Tampines Mall,True
+nearest_mall_Tanjong Pagar Centre,False
+nearest_mall_Teck Whye Shopping Centre,True
+nearest_mall_The Clementi Mall,False
+nearest_mall_The Seletar Mall,False
+nearest_mall_The Star Vista,False
+nearest_mall_Thomson Plaza,False
+nearest_mall_Thomson V,True
+nearest_mall_Tiong Bahru Plaza,False
+nearest_mall_Upper Serangoon Shopping Centre,False
+nearest_mall_Velocity@Novena Square,False
+nearest_mall_Vista Point,False
+nearest_mall_Waterway Point,False
+nearest_mall_West Coast Plaza,True
+nearest_mall_West Mall,False
+nearest_mall_Westgate,False
+nearest_mall_White Sands,False
+nearest_mall_Wisteria Mall,True
+nearest_mall_Woodlands Civic Centre,False
+nearest_mall_Woodlands Mart,False
+nearest_mall_Woodlands North Plaza,False
+nearest_mall_Yew Tee Point,False
+nearest_mall_Yew Tee Square,False
+nearest_mall_e,False
+nearest_mall_i12 Katong,False
+nearest_mall_myVillage At Serangoon Garden,True
+nearest_school_ADMIRALTY PRIMARY SCHOOL,False
+nearest_school_ADMIRALTY SECONDARY SCHOOL,False
+nearest_school_AHMAD IBRAHIM PRIMARY SCHOOL,False
+nearest_school_AHMAD IBRAHIM SECONDARY SCHOOL,False
+nearest_school_AI TONG SCHOOL,False
+nearest_school_ALEXANDRA PRIMARY SCHOOL,False
+nearest_school_ANDERSON SECONDARY SCHOOL,True
+nearest_school_ANG MO KIO PRIMARY SCHOOL,False
+nearest_school_ANG MO KIO SECONDARY SCHOOL,False
+nearest_school_ANGLICAN HIGH SCHOOL,False
+nearest_school_ANGLO-CHINESE JUNIOR COLLEGE,False
+nearest_school_ANGLO-CHINESE SCHOOL (INDEPENDENT),True
+nearest_school_ANGSANA PRIMARY SCHOOL,False
+nearest_school_BEACON PRIMARY SCHOOL,False
+nearest_school_BEATTY SECONDARY SCHOOL,False
+nearest_school_BEDOK GREEN PRIMARY SCHOOL,False
+nearest_school_BEDOK GREEN SECONDARY SCHOOL,False
+nearest_school_BEDOK VIEW SECONDARY SCHOOL,False
+nearest_school_BENDEMEER PRIMARY SCHOOL,False
+nearest_school_BENDEMEER SECONDARY SCHOOL,False
+nearest_school_BLANGAH RISE PRIMARY SCHOOL,False
+nearest_school_BOON LAY SECONDARY SCHOOL,False
+nearest_school_BOWEN SECONDARY SCHOOL,False
+nearest_school_BROADRICK SECONDARY SCHOOL,False
+nearest_school_BUKIT MERAH SECONDARY SCHOOL,True
+nearest_school_BUKIT PANJANG GOVT. HIGH SCHOOL,False
+nearest_school_BUKIT PANJANG PRIMARY SCHOOL,False
+nearest_school_BUKIT VIEW PRIMARY SCHOOL,False
+nearest_school_BUKIT VIEW SECONDARY SCHOOL,False
+nearest_school_CANBERRA PRIMARY SCHOOL,False
+nearest_school_CANOSSA CATHOLIC PRIMARY SCHOOL,False
+nearest_school_CANTONMENT PRIMARY SCHOOL,False
+nearest_school_CASUARINA PRIMARY SCHOOL,False
+nearest_school_CATHOLIC HIGH SCHOOL,False
+nearest_school_CHANGKAT CHANGI SECONDARY SCHOOL,False
+nearest_school_CHANGKAT PRIMARY SCHOOL,False
+nearest_school_CHIJ (KELLOCK),False
+nearest_school_CHIJ SECONDARY (TOA PAYOH),False
+nearest_school_CHIJ ST. JOSEPH'S CONVENT,False
+nearest_school_CHIJ ST. THERESA'S CONVENT,False
+nearest_school_CHONGFU SCHOOL,False
+nearest_school_CHONGZHENG PRIMARY SCHOOL,False
+nearest_school_CHUA CHU KANG PRIMARY SCHOOL,False
+nearest_school_CHUA CHU KANG SECONDARY SCHOOL,False
+nearest_school_CHUNG CHENG HIGH SCHOOL (YISHUN),True
+nearest_school_CLEMENTI PRIMARY SCHOOL,False
+nearest_school_COMMONWEALTH SECONDARY SCHOOL,False
+nearest_school_COMPASSVALE PRIMARY SCHOOL,False
+nearest_school_COMPASSVALE SECONDARY SCHOOL,False
+nearest_school_CONCORD PRIMARY SCHOOL,False
+nearest_school_CORPORATION PRIMARY SCHOOL,False
+nearest_school_CREST SECONDARY SCHOOL,False
+nearest_school_DAMAI PRIMARY SCHOOL,False
+nearest_school_DAMAI SECONDARY SCHOOL,False
+nearest_school_DAZHONG PRIMARY SCHOOL,False
+nearest_school_DE LA SALLE SCHOOL,False
+nearest_school_DEYI SECONDARY SCHOOL,False
+nearest_school_DUNMAN SECONDARY SCHOOL,False
+nearest_school_EAST SPRING PRIMARY SCHOOL,False
+nearest_school_EAST SPRING SECONDARY SCHOOL,False
+nearest_school_EDGEFIELD PRIMARY SCHOOL,False
+nearest_school_EDGEFIELD SECONDARY SCHOOL,False
+nearest_school_ELIAS PARK PRIMARY SCHOOL,False
+nearest_school_ENDEAVOUR PRIMARY SCHOOL,False
+nearest_school_EUNOS PRIMARY SCHOOL,False
+nearest_school_EVERGREEN PRIMARY SCHOOL,False
+nearest_school_EVERGREEN SECONDARY SCHOOL,False
+nearest_school_FAJAR SECONDARY SCHOOL,False
+nearest_school_FARRER PARK PRIMARY SCHOOL,False
+nearest_school_FENGSHAN PRIMARY SCHOOL,False
+nearest_school_FERN GREEN PRIMARY SCHOOL,False
+nearest_school_FERNVALE PRIMARY SCHOOL,False
+nearest_school_FIRST TOA PAYOH PRIMARY SCHOOL,False
+nearest_school_FRONTIER PRIMARY SCHOOL,False
+nearest_school_FUCHUN PRIMARY SCHOOL,False
+nearest_school_FUCHUN SECONDARY SCHOOL,False
+nearest_school_FUHUA PRIMARY SCHOOL,False
+nearest_school_GAN ENG SENG PRIMARY SCHOOL,False
+nearest_school_GAN ENG SENG SCHOOL,False
+nearest_school_GEYLANG METHODIST SCHOOL (PRIMARY),False
+nearest_school_GEYLANG METHODIST SCHOOL (SECONDARY),False
+nearest_school_GONGSHANG PRIMARY SCHOOL,False
+nearest_school_GREENDALE PRIMARY SCHOOL,False
+nearest_school_GREENRIDGE PRIMARY SCHOOL,False
+nearest_school_GREENRIDGE SECONDARY SCHOOL,False
+nearest_school_GREENWOOD PRIMARY SCHOOL,False
+nearest_school_GUANGYANG PRIMARY SCHOOL,False
+nearest_school_HENRY PARK PRIMARY SCHOOL,False
+nearest_school_HILLGROVE SECONDARY SCHOOL,False
+nearest_school_HOLY INNOCENTS' HIGH SCHOOL,False
+nearest_school_HOLY INNOCENTS' PRIMARY SCHOOL,False
+nearest_school_HONG WEN SCHOOL,False
+nearest_school_HORIZON PRIMARY SCHOOL,False
+nearest_school_HOUGANG PRIMARY SCHOOL,False
+nearest_school_HOUGANG SECONDARY SCHOOL,False
+nearest_school_HUA YI SECONDARY SCHOOL,False
+nearest_school_HUAMIN PRIMARY SCHOOL,False
+nearest_school_INNOVA PRIMARY SCHOOL,False
+nearest_school_JIEMIN PRIMARY SCHOOL,False
+nearest_school_JING SHAN PRIMARY SCHOOL,False
+nearest_school_JUNYUAN PRIMARY SCHOOL,False
+nearest_school_JUNYUAN SECONDARY SCHOOL,False
+nearest_school_JURONG PRIMARY SCHOOL,False
+nearest_school_JURONG SECONDARY SCHOOL,False
+nearest_school_JURONG WEST PRIMARY SCHOOL,False
+nearest_school_JURONG WEST SECONDARY SCHOOL,False
+nearest_school_JUYING PRIMARY SCHOOL,False
+nearest_school_KEMING PRIMARY SCHOOL,False
+nearest_school_KENT RIDGE SECONDARY SCHOOL,False
+nearest_school_KHENG CHENG SCHOOL,False
+nearest_school_KRANJI PRIMARY SCHOOL,False
+nearest_school_KRANJI SECONDARY SCHOOL,False
+nearest_school_KUO CHUAN PRESBYTERIAN PRIMARY SCHOOL,False
+nearest_school_LAKESIDE PRIMARY SCHOOL,False
+nearest_school_LOYANG VIEW SECONDARY SCHOOL,False
+nearest_school_MANJUSRI SECONDARY SCHOOL,False
+nearest_school_MARSILING PRIMARY SCHOOL,False
+nearest_school_MARSILING SECONDARY SCHOOL,False
+nearest_school_MAYFLOWER PRIMARY SCHOOL,False
+nearest_school_MAYFLOWER SECONDARY SCHOOL,True
+nearest_school_MEE TOH SCHOOL,False
+nearest_school_MERIDIAN PRIMARY SCHOOL,False
+nearest_school_MERIDIAN SECONDARY SCHOOL,False
+nearest_school_MILLENNIA INSTITUTE,False
+nearest_school_MONTFORT JUNIOR SCHOOL,False
+nearest_school_MONTFORT SECONDARY SCHOOL,False
+nearest_school_NAN CHIAU HIGH SCHOOL,False
+nearest_school_NAN HUA HIGH SCHOOL,True
+nearest_school_NAN HUA PRIMARY SCHOOL,False
+nearest_school_NANYANG JUNIOR COLLEGE,False
+nearest_school_NAVAL BASE PRIMARY SCHOOL,False
+nearest_school_NAVAL BASE SECONDARY SCHOOL,False
+nearest_school_NEW TOWN PRIMARY SCHOOL,False
+nearest_school_NGEE ANN PRIMARY SCHOOL,False
+nearest_school_NGEE ANN SECONDARY SCHOOL,False
+nearest_school_NORTH SPRING PRIMARY SCHOOL,False
+nearest_school_NORTH VIEW PRIMARY SCHOOL,False
+nearest_school_NORTH VISTA PRIMARY SCHOOL,True
+nearest_school_NORTH VISTA SECONDARY SCHOOL,False
+nearest_school_NORTHBROOKS SECONDARY SCHOOL,False
+nearest_school_NORTHLAND PRIMARY SCHOOL,False
+nearest_school_NORTHLAND SECONDARY SCHOOL,False
+nearest_school_NORTHLIGHT SCHOOL,False
+nearest_school_OASIS PRIMARY SCHOOL,False
+nearest_school_ORCHID PARK SECONDARY SCHOOL,False
+nearest_school_OUTRAM SECONDARY SCHOOL,False
+nearest_school_PALM VIEW PRIMARY SCHOOL,True
+nearest_school_PARK VIEW PRIMARY SCHOOL,False
+nearest_school_PASIR RIS PRIMARY SCHOOL,False
+nearest_school_PASIR RIS SECONDARY SCHOOL,False
+nearest_school_PAYA LEBAR METHODIST GIRLS' SCHOOL (SECONDARY),False
+nearest_school_PEI CHUN PUBLIC SCHOOL,False
+nearest_school_PEI HWA SECONDARY SCHOOL,False
+nearest_school_PEI TONG PRIMARY SCHOOL,False
+nearest_school_PEICAI SECONDARY SCHOOL,False
+nearest_school_PING YI SECONDARY SCHOOL,False
+nearest_school_PIONEER PRIMARY SCHOOL,False
+nearest_school_POI CHING SCHOOL,False
+nearest_school_PRINCESS ELIZABETH PRIMARY SCHOOL,False
+nearest_school_PUNGGOL COVE PRIMARY SCHOOL,False
+nearest_school_PUNGGOL GREEN PRIMARY SCHOOL,True
+nearest_school_PUNGGOL PRIMARY SCHOOL,False
+nearest_school_PUNGGOL SECONDARY SCHOOL,False
+nearest_school_PUNGGOL VIEW PRIMARY SCHOOL,False
+nearest_school_QIHUA PRIMARY SCHOOL,False
+nearest_school_QUEENSTOWN PRIMARY SCHOOL,False
+nearest_school_QUEENSTOWN SECONDARY SCHOOL,False
+nearest_school_QUEENSWAY SECONDARY SCHOOL,False
+nearest_school_RAFFLES GIRLS' SCHOOL (SECONDARY),False
+nearest_school_RIVER VALLEY HIGH SCHOOL,False
+nearest_school_RIVERSIDE PRIMARY SCHOOL,False
+nearest_school_RIVERVALE PRIMARY SCHOOL,False
+nearest_school_ROSYTH SCHOOL,False
+nearest_school_RULANG PRIMARY SCHOOL,False
+"nearest_school_SCHOOL OF THE ARTS, SINGAPORE",False
+nearest_school_SEMBAWANG PRIMARY SCHOOL,False
+nearest_school_SEMBAWANG SECONDARY SCHOOL,False
+nearest_school_SENG KANG SECONDARY SCHOOL,False
+nearest_school_SENGKANG GREEN PRIMARY SCHOOL,False
+nearest_school_SERANGOON GARDEN SECONDARY SCHOOL,False
+nearest_school_SERANGOON SECONDARY SCHOOL,False
+nearest_school_SOUTH VIEW PRIMARY SCHOOL,False
+nearest_school_SPECTRA SECONDARY SCHOOL,False
+nearest_school_SPRINGDALE PRIMARY SCHOOL,False
+nearest_school_SPRINGFIELD SECONDARY SCHOOL,False
+nearest_school_ST. ANTHONY'S CANOSSIAN PRIMARY SCHOOL,False
+nearest_school_ST. ANTHONY'S PRIMARY SCHOOL,False
+nearest_school_ST. GABRIEL'S SECONDARY SCHOOL,False
+nearest_school_ST. HILDA'S PRIMARY SCHOOL,False
+nearest_school_ST. HILDA'S SECONDARY SCHOOL,False
+nearest_school_ST. MARGARET'S PRIMARY SCHOOL,False
+nearest_school_STAMFORD PRIMARY SCHOOL,False
+nearest_school_SWISS COTTAGE SECONDARY SCHOOL,False
+nearest_school_TAMPINES SECONDARY SCHOOL,False
+nearest_school_TANGLIN SECONDARY SCHOOL,False
+nearest_school_TAO NAN SCHOOL,False
+nearest_school_TECK GHEE PRIMARY SCHOOL,False
+nearest_school_TECK WHYE SECONDARY SCHOOL,False
+nearest_school_TELOK KURAU PRIMARY SCHOOL,False
+nearest_school_TEMASEK PRIMARY SCHOOL,False
+nearest_school_UNITY PRIMARY SCHOOL,False
+nearest_school_UNITY SECONDARY SCHOOL,False
+nearest_school_VALOUR PRIMARY SCHOOL,False
+nearest_school_WATERWAY PRIMARY SCHOOL,False
+nearest_school_WELLINGTON PRIMARY SCHOOL,False
+nearest_school_WEST GROVE PRIMARY SCHOOL,False
+nearest_school_WEST SPRING PRIMARY SCHOOL,False
+nearest_school_WEST SPRING SECONDARY SCHOOL,False
+nearest_school_WEST VIEW PRIMARY SCHOOL,False
+nearest_school_WESTWOOD PRIMARY SCHOOL,False
+nearest_school_WESTWOOD SECONDARY SCHOOL,False
+nearest_school_WHITE SANDS PRIMARY SCHOOL,False
+nearest_school_WHITLEY SECONDARY SCHOOL,False
+nearest_school_WOODGROVE PRIMARY SCHOOL,False
+nearest_school_WOODGROVE SECONDARY SCHOOL,False
+nearest_school_WOODLANDS PRIMARY SCHOOL,False
+nearest_school_WOODLANDS RING PRIMARY SCHOOL,False
+nearest_school_WOODLANDS RING SECONDARY SCHOOL,False
+nearest_school_WOODLANDS SECONDARY SCHOOL,False
+nearest_school_XINGHUA PRIMARY SCHOOL,False
+nearest_school_XINGNAN PRIMARY SCHOOL,False
+nearest_school_XINMIN PRIMARY SCHOOL,False
+nearest_school_XINMIN SECONDARY SCHOOL,False
+nearest_school_XISHAN PRIMARY SCHOOL,False
+nearest_school_YIO CHU KANG PRIMARY SCHOOL,False
+nearest_school_YIO CHU KANG SECONDARY SCHOOL,False
+nearest_school_YISHUN SECONDARY SCHOOL,False
+nearest_school_YISHUN TOWN SECONDARY SCHOOL,False
+nearest_school_YU NENG PRIMARY SCHOOL,False
+nearest_school_YUAN CHING SECONDARY SCHOOL,False
+nearest_school_YUHUA PRIMARY SCHOOL,False
+nearest_school_YUMIN PRIMARY SCHOOL,False
+nearest_school_YUYING SECONDARY SCHOOL,True
+nearest_school_ZHANGDE PRIMARY SCHOOL,False
+nearest_school_ZHENGHUA PRIMARY SCHOOL,False
+nearest_bus_stop_Aft Blk 467B,False
+nearest_bus_stop_Aft Hasanah Mque,True
+nearest_bus_stop_Aft Punggol Rd,False
+nearest_bus_stop_Bef 888 Plaza,False
+nearest_bus_stop_Bef Lavender St,False
+nearest_bus_stop_Bet Blks 139/140,False
+nearest_bus_stop_Bet Blks 315/318,False
+nearest_bus_stop_Bet Blks 33/34,False
+nearest_bus_stop_Bet Blks 357/359,False
+nearest_bus_stop_Bet Blks 445/449,False
+nearest_bus_stop_Bet Blks 701/702,False
+nearest_bus_stop_Blk 10,False
+nearest_bus_stop_Blk 101,False
+nearest_bus_stop_Blk 102,False
+nearest_bus_stop_Blk 104C,False
+nearest_bus_stop_Blk 106,False
+nearest_bus_stop_Blk 108,False
+nearest_bus_stop_Blk 108 CP,False
+nearest_bus_stop_Blk 112,False
+nearest_bus_stop_Blk 114,False
+nearest_bus_stop_Blk 115,False
+nearest_bus_stop_Blk 115C,False
+nearest_bus_stop_Blk 121,False
+nearest_bus_stop_Blk 122,False
+nearest_bus_stop_Blk 124,False
+nearest_bus_stop_Blk 125,False
+nearest_bus_stop_Blk 126 Cp,False
+nearest_bus_stop_Blk 128,False
+nearest_bus_stop_Blk 129,False
+nearest_bus_stop_Blk 129A,False
+nearest_bus_stop_Blk 131,False
+nearest_bus_stop_Blk 137,False
+nearest_bus_stop_Blk 147,False
+nearest_bus_stop_Blk 151,False
+nearest_bus_stop_Blk 157,False
+nearest_bus_stop_Blk 163,False
+nearest_bus_stop_Blk 166,False
+nearest_bus_stop_Blk 169,False
+nearest_bus_stop_Blk 17,False
+nearest_bus_stop_Blk 176,False
+nearest_bus_stop_Blk 18,True
+nearest_bus_stop_Blk 180,False
+nearest_bus_stop_Blk 19,False
+nearest_bus_stop_Blk 190,False
+nearest_bus_stop_Blk 190C,False
+nearest_bus_stop_Blk 19A CP,False
+nearest_bus_stop_Blk 201,False
+nearest_bus_stop_Blk 202,False
+nearest_bus_stop_Blk 203,False
+nearest_bus_stop_Blk 206,False
+nearest_bus_stop_Blk 207,False
+nearest_bus_stop_Blk 217,False
+nearest_bus_stop_Blk 22,False
+nearest_bus_stop_Blk 220C,False
+nearest_bus_stop_Blk 224A,False
+nearest_bus_stop_Blk 226A,False
+nearest_bus_stop_Blk 230,False
+nearest_bus_stop_Blk 233,False
+nearest_bus_stop_Blk 248,False
+nearest_bus_stop_Blk 25,False
+nearest_bus_stop_Blk 268C,False
+nearest_bus_stop_Blk 27,False
+nearest_bus_stop_Blk 272,False
+nearest_bus_stop_Blk 272C,False
+nearest_bus_stop_Blk 283,False
+nearest_bus_stop_Blk 286A,False
+nearest_bus_stop_Blk 286B,False
+nearest_bus_stop_Blk 291A,False
+nearest_bus_stop_Blk 296A,False
+nearest_bus_stop_Blk 298,False
+nearest_bus_stop_Blk 302,False
+nearest_bus_stop_Blk 316,False
+nearest_bus_stop_Blk 32,False
+nearest_bus_stop_Blk 322,False
+nearest_bus_stop_Blk 325,False
+nearest_bus_stop_Blk 329,False
+nearest_bus_stop_Blk 334,False
+nearest_bus_stop_Blk 335,False
+nearest_bus_stop_Blk 34,False
+nearest_bus_stop_Blk 342B,False
+nearest_bus_stop_Blk 343,False
+nearest_bus_stop_Blk 346,False
+nearest_bus_stop_Blk 352,False
+nearest_bus_stop_Blk 354,False
+nearest_bus_stop_Blk 36,False
+nearest_bus_stop_Blk 390,False
+nearest_bus_stop_Blk 40,False
+nearest_bus_stop_Blk 402,False
+nearest_bus_stop_Blk 416,False
+nearest_bus_stop_Blk 423,False
+nearest_bus_stop_Blk 425,False
+nearest_bus_stop_Blk 427,False
+nearest_bus_stop_Blk 429A Cp,False
+nearest_bus_stop_Blk 432C,False
+nearest_bus_stop_Blk 44,False
+nearest_bus_stop_Blk 443,False
+nearest_bus_stop_Blk 443D,False
+nearest_bus_stop_Blk 448A,False
+nearest_bus_stop_Blk 448B,False
+nearest_bus_stop_Blk 45,False
+nearest_bus_stop_Blk 457,False
+nearest_bus_stop_Blk 469B,False
+nearest_bus_stop_Blk 477A,False
+nearest_bus_stop_Blk 482A CP,False
+nearest_bus_stop_Blk 485,False
+nearest_bus_stop_Blk 491C,False
+nearest_bus_stop_Blk 50,False
+nearest_bus_stop_Blk 504C,False
+nearest_bus_stop_Blk 505C,False
+nearest_bus_stop_Blk 526,False
+nearest_bus_stop_Blk 527,False
+nearest_bus_stop_Blk 532,False
+nearest_bus_stop_Blk 534,False
+nearest_bus_stop_Blk 537,False
+nearest_bus_stop_Blk 538,False
+nearest_bus_stop_Blk 54,False
+nearest_bus_stop_Blk 541A CP,False
+nearest_bus_stop_Blk 544,False
+nearest_bus_stop_Blk 548B,False
+nearest_bus_stop_Blk 551,False
+nearest_bus_stop_Blk 554,False
+nearest_bus_stop_Blk 573A,False
+nearest_bus_stop_Blk 586,False
+nearest_bus_stop_Blk 589,False
+nearest_bus_stop_Blk 604A,False
+nearest_bus_stop_Blk 608,False
+nearest_bus_stop_Blk 628,False
+nearest_bus_stop_Blk 636A,False
+nearest_bus_stop_Blk 639,False
+nearest_bus_stop_Blk 643,False
+nearest_bus_stop_Blk 666,False
+nearest_bus_stop_Blk 67,False
+nearest_bus_stop_Blk 671 CP,False
+nearest_bus_stop_Blk 676 CP,False
+nearest_bus_stop_Blk 682A,False
+nearest_bus_stop_Blk 691D,False
+nearest_bus_stop_Blk 694C,False
+nearest_bus_stop_Blk 7,False
+nearest_bus_stop_Blk 701,False
+nearest_bus_stop_Blk 70A,False
+nearest_bus_stop_Blk 713,False
+nearest_bus_stop_Blk 716,False
+nearest_bus_stop_Blk 729,False
+nearest_bus_stop_Blk 730,False
+nearest_bus_stop_Blk 741,False
+nearest_bus_stop_Blk 745,False
+nearest_bus_stop_Blk 753,False
+nearest_bus_stop_Blk 788E,False
+nearest_bus_stop_Blk 79 FC,False
+nearest_bus_stop_Blk 790,False
+nearest_bus_stop_Blk 8,False
+nearest_bus_stop_Blk 803,False
+nearest_bus_stop_Blk 810 CP,False
+nearest_bus_stop_Blk 840,False
+nearest_bus_stop_Blk 867A,False
+nearest_bus_stop_Blk 871,False
+nearest_bus_stop_Blk 873,False
+nearest_bus_stop_Blk 90,False
+nearest_bus_stop_Blk 92,False
+nearest_bus_stop_Blk 92B,False
+nearest_bus_stop_Blk 969,False
+nearest_bus_stop_Blk 99,False
+nearest_bus_stop_Boon Keng Stn/Blk 102,True
+nearest_bus_stop_Christ Ch,False
+nearest_bus_stop_Coral Edge Stn Exit A,False
+nearest_bus_stop_Ctrl Green Condo,False
+nearest_bus_stop_Damai Stn Exit A,False
+nearest_bus_stop_Farmway Stn Exit B,False
+nearest_bus_stop_Fernvale Stn/Blk 439A,False
+nearest_bus_stop_Kangkar Stn Exit B,False
+nearest_bus_stop_Layar Stn Exit A/Blk 417A,True
+nearest_bus_stop_Millennia Institute,False
+nearest_bus_stop_Nibong Stn Exit A,False
+nearest_bus_stop_Oasis Stn Exit A,False
+nearest_bus_stop_Oasis Stn Exit B/Blk 617D,False
+nearest_bus_stop_Opp Admiralty Sec Sch,False
+nearest_bus_stop_Opp Bishan Nth Shop Mall,False
+nearest_bus_stop_Opp Blk 115C,False
+nearest_bus_stop_Opp Blk 158,False
+nearest_bus_stop_Opp Blk 178A,True
+nearest_bus_stop_Opp Blk 228B,False
+nearest_bus_stop_Opp Blk 272C,False
+nearest_bus_stop_Opp Blk 291A,False
+nearest_bus_stop_Opp Blk 291E,False
+nearest_bus_stop_Opp Blk 296,False
+nearest_bus_stop_Opp Blk 471A,False
+nearest_bus_stop_Opp Blk 565,True
+nearest_bus_stop_Opp Blk 670,False
+nearest_bus_stop_Opp Blk 681B,False
+nearest_bus_stop_Opp Blk 717,False
+nearest_bus_stop_Opp Blk 85,False
+nearest_bus_stop_Opp Blk 871A,False
+nearest_bus_stop_Opp Blk 896B,False
+nearest_bus_stop_Opp Blk 91A,False
+nearest_bus_stop_Opp Blk 991A,False
+nearest_bus_stop_Opp Blks 710/713,False
+nearest_bus_stop_Opp Fernvale Stn,False
+nearest_bus_stop_Opp Hong San Terr,False
+nearest_bus_stop_Opp Jurong Polyclinic,False
+nearest_bus_stop_Opp Jurong Sec Sch,False
+nearest_bus_stop_Opp Kallang Stn/Blk 2C,False
+nearest_bus_stop_Opp Northbrooks Sec Sch,False
+nearest_bus_stop_Opp Petir Stn,False
+nearest_bus_stop_Opp St. Joseph's Hme,True
+nearest_bus_stop_Opp The Holy Trinity Ch,False
+nearest_bus_stop_Opp The Midtown,False
+nearest_bus_stop_Opp W'Lands Mart,False
+nearest_bus_stop_Opp Woodgrove Sec Sch,False
+nearest_bus_stop_Punggol Sec/Blk 601B,False
+nearest_bus_stop_Renjong Stn Exit B,False
+nearest_bus_stop_Selegie Ctr,False
+nearest_bus_stop_Sumang Stn Exit B,False
+nearest_bus_stop_Waterway Pr Sch,False
+nearest_bus_stop_Woodsvale Condo,False
+nearest_primary_school_ADMIRALTY PRIMARY SCHOOL,False
+nearest_primary_school_AHMAD IBRAHIM PRIMARY SCHOOL,False
+nearest_primary_school_AI TONG SCHOOL,False
+nearest_primary_school_ALEXANDRA PRIMARY SCHOOL,False
+nearest_primary_school_ANCHOR GREEN PRIMARY SCHOOL,False
+nearest_primary_school_ANG MO KIO PRIMARY SCHOOL,False
+nearest_primary_school_ANGSANA PRIMARY SCHOOL,False
+nearest_primary_school_BEACON PRIMARY SCHOOL,False
+nearest_primary_school_BEDOK GREEN PRIMARY SCHOOL,False
+nearest_primary_school_BENDEMEER PRIMARY SCHOOL,False
+nearest_primary_school_BLANGAH RISE PRIMARY SCHOOL,False
+nearest_primary_school_BOON LAY GARDEN PRIMARY SCHOOL,False
+nearest_primary_school_BUKIT PANJANG PRIMARY SCHOOL,False
+nearest_primary_school_BUKIT VIEW PRIMARY SCHOOL,False
+nearest_primary_school_CANBERRA PRIMARY SCHOOL,False
+nearest_primary_school_CANOSSA CATHOLIC PRIMARY SCHOOL,False
+nearest_primary_school_CANTONMENT PRIMARY SCHOOL,True
+nearest_primary_school_CASUARINA PRIMARY SCHOOL,False
+nearest_primary_school_CHANGKAT PRIMARY SCHOOL,False
+nearest_primary_school_CHIJ (KELLOCK),False
+nearest_primary_school_CHIJ OUR LADY OF THE NATIVITY,False
+nearest_primary_school_CHIJ PRIMARY (TOA PAYOH),False
+nearest_primary_school_CHONGFU SCHOOL,False
+nearest_primary_school_CHONGZHENG PRIMARY SCHOOL,False
+nearest_primary_school_CHUA CHU KANG PRIMARY SCHOOL,False
+nearest_primary_school_CLEMENTI PRIMARY SCHOOL,False
+nearest_primary_school_COMPASSVALE PRIMARY SCHOOL,False
+nearest_primary_school_CONCORD PRIMARY SCHOOL,False
+nearest_primary_school_CORPORATION PRIMARY SCHOOL,False
+nearest_primary_school_DAMAI PRIMARY SCHOOL,False
+nearest_primary_school_DAZHONG PRIMARY SCHOOL,False
+nearest_primary_school_DE LA SALLE SCHOOL,False
+nearest_primary_school_EAST SPRING PRIMARY SCHOOL,True
+nearest_primary_school_EDGEFIELD PRIMARY SCHOOL,False
+nearest_primary_school_ELIAS PARK PRIMARY SCHOOL,False
+nearest_primary_school_ENDEAVOUR PRIMARY SCHOOL,False
+nearest_primary_school_EUNOS PRIMARY SCHOOL,False
+nearest_primary_school_EVERGREEN PRIMARY SCHOOL,False
+nearest_primary_school_FAIRFIELD METHODIST SCHOOL (PRIMARY),False
+nearest_primary_school_FARRER PARK PRIMARY SCHOOL,False
+nearest_primary_school_FENGSHAN PRIMARY SCHOOL,False
+nearest_primary_school_FERN GREEN PRIMARY SCHOOL,False
+nearest_primary_school_FERNVALE PRIMARY SCHOOL,False
+nearest_primary_school_FIRST TOA PAYOH PRIMARY SCHOOL,False
+nearest_primary_school_FRONTIER PRIMARY SCHOOL,False
+nearest_primary_school_FUCHUN PRIMARY SCHOOL,True
+nearest_primary_school_FUHUA PRIMARY SCHOOL,False
+nearest_primary_school_GAN ENG SENG PRIMARY SCHOOL,False
+nearest_primary_school_GEYLANG METHODIST SCHOOL (PRIMARY),False
+nearest_primary_school_GONGSHANG PRIMARY SCHOOL,False
+nearest_primary_school_GREENDALE PRIMARY SCHOOL,False
+nearest_primary_school_GREENRIDGE PRIMARY SCHOOL,False
+nearest_primary_school_GREENWOOD PRIMARY SCHOOL,False
+nearest_primary_school_GUANGYANG PRIMARY SCHOOL,False
+nearest_primary_school_HAIG GIRLS' SCHOOL,False
+nearest_primary_school_HENRY PARK PRIMARY SCHOOL,False
+nearest_primary_school_HOLY INNOCENTS' PRIMARY SCHOOL,False
+nearest_primary_school_HONG WEN SCHOOL,False
+nearest_primary_school_HORIZON PRIMARY SCHOOL,False
+nearest_primary_school_HOUGANG PRIMARY SCHOOL,False
+nearest_primary_school_HUAMIN PRIMARY SCHOOL,True
+nearest_primary_school_INNOVA PRIMARY SCHOOL,False
+nearest_primary_school_JIEMIN PRIMARY SCHOOL,False
+nearest_primary_school_JING SHAN PRIMARY SCHOOL,False
+nearest_primary_school_JUNYUAN PRIMARY SCHOOL,False
+nearest_primary_school_JURONG PRIMARY SCHOOL,False
+nearest_primary_school_JURONG WEST PRIMARY SCHOOL,False
+nearest_primary_school_JUYING PRIMARY SCHOOL,False
+nearest_primary_school_KEMING PRIMARY SCHOOL,False
+nearest_primary_school_KHENG CHENG SCHOOL,True
+nearest_primary_school_KONG HWA SCHOOL,False
+nearest_primary_school_KRANJI PRIMARY SCHOOL,False
+nearest_primary_school_KUO CHUAN PRESBYTERIAN PRIMARY SCHOOL,False
+nearest_primary_school_LAKESIDE PRIMARY SCHOOL,False
+nearest_primary_school_LIANHUA PRIMARY SCHOOL,False
+nearest_primary_school_MAHA BODHI SCHOOL,True
+nearest_primary_school_MARSILING PRIMARY SCHOOL,False
+nearest_primary_school_MARYMOUNT CONVENT SCHOOL,False
+nearest_primary_school_MAYFLOWER PRIMARY SCHOOL,False
+nearest_primary_school_MEE TOH SCHOOL,False
+nearest_primary_school_MERIDIAN PRIMARY SCHOOL,False
+nearest_primary_school_MONTFORT JUNIOR SCHOOL,False
+nearest_primary_school_NAN CHIAU PRIMARY SCHOOL,False
+nearest_primary_school_NAN HUA PRIMARY SCHOOL,False
+nearest_primary_school_NAVAL BASE PRIMARY SCHOOL,False
+nearest_primary_school_NEW TOWN PRIMARY SCHOOL,False
+nearest_primary_school_NGEE ANN PRIMARY SCHOOL,False
+nearest_primary_school_NORTH SPRING PRIMARY SCHOOL,False
+nearest_primary_school_NORTH VIEW PRIMARY SCHOOL,False
+nearest_primary_school_NORTH VISTA PRIMARY SCHOOL,False
+nearest_primary_school_NORTHLAND PRIMARY SCHOOL,False
+nearest_primary_school_OASIS PRIMARY SCHOOL,False
+nearest_primary_school_OPERA ESTATE PRIMARY SCHOOL,False
+nearest_primary_school_PALM VIEW PRIMARY SCHOOL,False
+nearest_primary_school_PARK VIEW PRIMARY SCHOOL,False
+nearest_primary_school_PASIR RIS PRIMARY SCHOOL,False
+nearest_primary_school_PAYA LEBAR METHODIST GIRLS' SCHOOL (PRIMARY),False
+nearest_primary_school_PEI CHUN PUBLIC SCHOOL,False
+nearest_primary_school_PEI TONG PRIMARY SCHOOL,False
+nearest_primary_school_PEIYING PRIMARY SCHOOL,False
+nearest_primary_school_PIONEER PRIMARY SCHOOL,False
+nearest_primary_school_POI CHING SCHOOL,False
+nearest_primary_school_PRINCESS ELIZABETH PRIMARY SCHOOL,False
+nearest_primary_school_PUNGGOL COVE PRIMARY SCHOOL,False
+nearest_primary_school_PUNGGOL GREEN PRIMARY SCHOOL,False
+nearest_primary_school_PUNGGOL PRIMARY SCHOOL,False
+nearest_primary_school_PUNGGOL VIEW PRIMARY SCHOOL,False
+nearest_primary_school_QIFA PRIMARY SCHOOL,False
+nearest_primary_school_QIHUA PRIMARY SCHOOL,False
+nearest_primary_school_QUEENSTOWN PRIMARY SCHOOL,False
+nearest_primary_school_RADIN MAS PRIMARY SCHOOL,True
+nearest_primary_school_RED SWASTIKA SCHOOL,False
+nearest_primary_school_RIVERSIDE PRIMARY SCHOOL,True
+nearest_primary_school_RIVERVALE PRIMARY SCHOOL,False
+nearest_primary_school_ROSYTH SCHOOL,False
+nearest_primary_school_RULANG PRIMARY SCHOOL,False
+nearest_primary_school_SEMBAWANG PRIMARY SCHOOL,False
+nearest_primary_school_SENG KANG PRIMARY SCHOOL,False
+nearest_primary_school_SENGKANG GREEN PRIMARY SCHOOL,False
+nearest_primary_school_SHUQUN PRIMARY SCHOOL,False
+nearest_primary_school_SOUTH VIEW PRIMARY SCHOOL,False
+nearest_primary_school_SPRINGDALE PRIMARY SCHOOL,False
+nearest_primary_school_ST. ANDREW'S JUNIOR SCHOOL,False
+nearest_primary_school_ST. ANTHONY'S CANOSSIAN PRIMARY SCHOOL,False
+nearest_primary_school_ST. ANTHONY'S PRIMARY SCHOOL,False
+nearest_primary_school_ST. HILDA'S PRIMARY SCHOOL,False
+nearest_primary_school_ST. MARGARET'S PRIMARY SCHOOL,False
+nearest_primary_school_STAMFORD PRIMARY SCHOOL,False
+nearest_primary_school_TAMPINES NORTH PRIMARY SCHOOL,False
+nearest_primary_school_TAMPINES PRIMARY SCHOOL,False
+nearest_primary_school_TAO NAN SCHOOL,False
+nearest_primary_school_TECK GHEE PRIMARY SCHOOL,False
+nearest_primary_school_TECK WHYE PRIMARY SCHOOL,False
+nearest_primary_school_TELOK KURAU PRIMARY SCHOOL,False
+nearest_primary_school_TEMASEK PRIMARY SCHOOL,False
+nearest_primary_school_TOWNSVILLE PRIMARY SCHOOL,False
+nearest_primary_school_UNITY PRIMARY SCHOOL,False
+nearest_primary_school_VALOUR PRIMARY SCHOOL,False
+nearest_primary_school_WATERWAY PRIMARY SCHOOL,False
+nearest_primary_school_WELLINGTON PRIMARY SCHOOL,False
+nearest_primary_school_WEST GROVE PRIMARY SCHOOL,False
+nearest_primary_school_WEST SPRING PRIMARY SCHOOL,False
+nearest_primary_school_WEST VIEW PRIMARY SCHOOL,False
+nearest_primary_school_WESTWOOD PRIMARY SCHOOL,False
+nearest_primary_school_WHITE SANDS PRIMARY SCHOOL,False
+nearest_primary_school_WOODGROVE PRIMARY SCHOOL,False
+nearest_primary_school_WOODLANDS PRIMARY SCHOOL,False
+nearest_primary_school_WOODLANDS RING PRIMARY SCHOOL,False
+nearest_primary_school_XINGHUA PRIMARY SCHOOL,False
+nearest_primary_school_XINGNAN PRIMARY SCHOOL,False
+nearest_primary_school_XINMIN PRIMARY SCHOOL,True
+nearest_primary_school_XISHAN PRIMARY SCHOOL,False
+nearest_primary_school_YANGZHENG PRIMARY SCHOOL,False
+nearest_primary_school_YEW TEE PRIMARY SCHOOL,False
+nearest_primary_school_YIO CHU KANG PRIMARY SCHOOL,False
+nearest_primary_school_YU NENG PRIMARY SCHOOL,False
+nearest_primary_school_YUHUA PRIMARY SCHOOL,False
+nearest_primary_school_YUMIN PRIMARY SCHOOL,False
+nearest_primary_school_ZHANGDE PRIMARY SCHOOL,True
+nearest_primary_school_ZHENGHUA PRIMARY SCHOOL,False
+nearest_primary_school_ZHONGHUA PRIMARY SCHOOL,False

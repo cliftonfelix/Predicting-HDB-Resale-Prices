@@ -18,8 +18,8 @@ NUS ST4248 Project on predicting HDB resale prices
         ├── feature engineering
         ├── feature selection
         ├── bagging
-        ├── rf, bagging, elasticnet
-        ├── linreg
+        ├── rf, elasticnet
+        ├── linreg, gbr
         ├── neural network tensorflow
         ├── neural network pytorch
         └── xgboost
@@ -27,4 +27,4 @@ NUS ST4248 Project on predicting HDB resale prices
 
 ## More Information
 
-Available at https://st4248-2220-c4.github.io/. :smile:
+Available at https://st4248-2220-c4.github.io/ :smile:

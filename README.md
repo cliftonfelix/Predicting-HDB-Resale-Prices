@@ -27,4 +27,4 @@ NUS ST4248 Project on predicting HDB resale prices
 
 ## More Information
 
-Available at st4248-2220-c4.github.io/. :smile:
+Available at https://st4248-2220-c4.github.io/. :smile:

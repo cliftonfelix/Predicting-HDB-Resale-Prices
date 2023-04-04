@@ -1,0 +1,73 @@
+---
+title: "ST4248 Project"
+author: "Group C4"
+date: '2023-03-02'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Libraries Import
+
+```{r}
+library(dplyr)
+library(tidyr)
+library(xgboost)
+library(treeshap)
+```
+
+# Import CSV
+
+```{r}
+# I did this before I did feature engineering and selection so need to change abit
+resale = read.csv("data/data_cleaning/resale_sparse.csv")
+```
+
+```{r}
+total_rows = dim(resale)[1]
+train_indices = sample(total_rows, 0.8 * total_rows)
+
+resale_train = resale[train_indices,]
+resale_test = resale[-train_indices,]
+```
+
+```{r}
+X_train = resale_train %>%
+    select(-resale_price)
+X_test = resale_test %>%
+    select(-resale_price)
+
+Y_train = resale_train$resale_price
+Y_test = resale_test$resale_price
+```
+
+# XGBoost
+
+```{r}
+# to be finetuned
+resale.xgb <- xgboost(
+  data = as.matrix(X_train),
+  label = Y_train,
+  nround = 20,
+  verbose = FALSE
+)
+
+unified <- xgboost.unify(resale.xgb, X_train)
+head(unified$resale.xgb)
+treeshap1 <- treeshap(unified, X_train, verbose = 0)
+treeshap1$shaps[1:3, 1:6]
+plot_contribution(treeshap1, obs = 1, min_max = c(0, 16000000))
+plot_feature_importance(treeshap1, max_vars = 6)
+# plot_feature_dependence(treeshap1, "height_cm")
+
+yhat.xgb = predict(resale.xgb, newdata = as.matrix(X_test))
+
+summary(model)
+sqrt(mean((yhat.xgb - resale_test[,"resale_price"])^2))
+rss = sum((yhat.xgb - resale_test[,"resale_price"]) ^ 2)  ## residual sum of squares
+tss = sum((resale_test[,"resale_price"] - mean(resale_test[,"resale_price"])) ^ 2)  ## total sum of squares
+rsq = 1 - rss/tss
+rsq
+```

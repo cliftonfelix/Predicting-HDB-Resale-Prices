@@ -6,11 +6,6 @@ header {
     font-family: monospace, monospace;
 }
 
-footer {
-    margin-top: 30px;
-    font-family: monospace, monospace;
-}
-
 body {
     background-color: #fff;
     color: #000;
@@ -26,7 +21,6 @@ p {
 }
 
 a {
-    color: #1443eb;
     text-decoration: none;
 }
 
@@ -69,9 +63,4 @@ nav a {
 nav a:hover {
     background: #cc2222;
     color: rgb(255, 255, 255);
-}
-
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
 }

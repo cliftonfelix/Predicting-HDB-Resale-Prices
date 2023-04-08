@@ -32,14 +32,14 @@
         <p>Singapore Housing and Development Board (HDB) flats are resold at various prices. The resale price can be affected by many factors, such as floor area, lease year, and many more. This project aims to perform prediction, which is to predict HDB resale prices, and inference, where we analyze how each feature contributes to the resale price. The model and findings can then be used to assist property agents and HDB owners in determining the resale price of HDB so as to attract buyers while still maximizing profits.</p>
         
         <h3>Dataset</h3>
-        <p>The dataset is taken from government resale flat data at <a href="https://data.gov.sg/dataset/resale-flat-prices">data.gov.sg/dataset/resale-flat-prices</a>, managed by the Singapore Housing Development Board (HDB). Exactly 4410 resale transactions are taken from January to February 2023. Only these two months are taken for the dataset to eliminate the influence of time series on the data. The dataset has 11 variables: month, town, flat_type, block, street_name, storey_range, floor_area_sqm, flat_model, lease_commence_date, remaining_lease, and lastly resale_price as the response variable.</p>
+        <p>The dataset is taken from government resale flat data at <a style="color: #1443eb;" href="https://data.gov.sg/dataset/resale-flat-prices">data.gov.sg/dataset/resale-flat-prices</a>, managed by the Singapore Housing Development Board (HDB). Exactly 4410 resale transactions are taken from January to February 2023. Only these two months are taken for the dataset to eliminate the influence of time series on the data. The dataset has 11 variables: month, town, flat_type, block, street_name, storey_range, floor_area_sqm, flat_model, lease_commence_date, remaining_lease, and lastly resale_price as the response variable.</p>
         
         <h3>Further Observations</h3>
         <p>We performed EDA, feature engineering, feature selection, and then tried out several models which can be seen on the navigation bar on top of this page.</p>
         
         <h3>Results</h3>
-        <table style="text-align: center; width: 50%">
-        <tr>
+        <table style="text-align: center; width: 50%; background-color: black;">
+        <tr style="background-color: white;">
             <th>Metrics</th>
             <th>Model</th>
             <th>LR</th>
@@ -119,16 +119,16 @@
         <b>Subtract from overall price/sqm</b>
         <ul>
             <li>Nearest MRT distance</li>
-            <li>Nearest mall distanc</li>
+            <li>Nearest mall distance</li>
             <li>Total resales in town</li>
         </ul>
         <p>Throughout this project, we have shown that we can quite accurately predict the price/sqm for HDB resale flats using the original and engineered features. We have also inferred the most important features that add to and subtract from the HDB resale price. With this model, we hope that property agents or sellers can have a better benchmark on the price they should set when reselling an HDB unit.</p>
         
         <h3>Full Report</h3>
-        <p><a href="">Link to our project report (TBA)</a></p>
+        <p><a style="color: #1443eb;" href="">Link to our project report (TBA)</a></p>
     </section>
 </body>
-<footer>
+<footer style="margin-top: 30px; font-family: monospace, monospace;">
     ST4248 Project Group C4 &copy; 2023
 </footer>
 </html>

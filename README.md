@@ -1,6 +1,4 @@
-# ST4248 Group C4
-
-NUS ST4248 Project on predicting HDB resale prices
+# Predicting HDB Resale Prices
 
 ## Directory Structure
 
